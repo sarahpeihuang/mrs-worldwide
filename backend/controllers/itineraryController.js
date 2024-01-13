@@ -20,7 +20,7 @@ const getItinerary = async (req, res) => {
     const itinerary = await Itinerary.findById(id)
 
     if(!itinerary){
-        return res.status(404).json({error: 'no pussy'})
+        return res.status(404).json({error: 'no puss'})
     }
 
     res.status(200).json(itinerary)
