@@ -11,7 +11,7 @@ def itinerary_generation(city, days):
     return response.generations[0].text
 
 def precaution_generation(city):
-    prompt='Travelling to %s, create an itinerary' % (city)
+    prompt='A list of three safety precautions and considerations for solo female travelers visiting %s' % (city)
     response = co.generate(prompt)
 
     return response.generations[0].text
