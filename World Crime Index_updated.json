@@ -1,0 +1,3173 @@
+[
+  {
+    "Rank": 1,
+    "City": "Caracas",
+    "Crime Index": 83.98,
+    "Safety Index": 16.02,
+    "Country": "Venezuela"
+  },
+  {
+    "Rank": 2,
+    "City": "Pretoria",
+    "Crime Index": 81.98,
+    "Safety Index": 18.02,
+    "Country": "South Africa"
+  },
+  {
+    "Rank": 3,
+    "City": "Celaya",
+    "Crime Index": 81.8,
+    "Safety Index": 18.2,
+    "Country": "Mexico"
+  },
+  {
+    "Rank": 4,
+    "City": "San Pedro Sula",
+    "Crime Index": 80.87,
+    "Safety Index": 19.13,
+    "Country": "Honduras"
+  },
+  {
+    "Rank": 5,
+    "City": "Port Moresby",
+    "Crime Index": 80.71,
+    "Safety Index": 19.29,
+    "Country": "Papua New Guinea"
+  },
+  {
+    "Rank": 6,
+    "City": "Durban",
+    "Crime Index": 80.6,
+    "Safety Index": 19.4,
+    "Country": "South Africa"
+  },
+  {
+    "Rank": 7,
+    "City": "Johannesburg",
+    "Crime Index": 80.55,
+    "Safety Index": 19.45,
+    "Country": "South Africa"
+  },
+  {
+    "Rank": 8,
+    "City": "Kabul",
+    "Crime Index": 79.39,
+    "Safety Index": 20.61,
+    "Country": "Afghanistan"
+  },
+  {
+    "Rank": 9,
+    "City": "Rio de Janeiro",
+    "Crime Index": 77.93,
+    "Safety Index": 22.07,
+    "Country": "Brazil"
+  },
+  {
+    "Rank": 10,
+    "City": "Natal",
+    "Crime Index": 77.69,
+    "Safety Index": 22.31,
+    "Country": "Brazil"
+  },
+  {
+    "Rank": 11,
+    "City": "Fortaleza",
+    "Crime Index": 77.36,
+    "Safety Index": 22.64,
+    "Country": "Brazil"
+  },
+  {
+    "Rank": 12,
+    "City": "Port Elizabeth",
+    "Crime Index": 76.44,
+    "Safety Index": 23.56,
+    "Country": "South Africa"
+  },
+  {
+    "Rank": 13,
+    "City": "Recife",
+    "Crime Index": 76.42,
+    "Safety Index": 23.58,
+    "Country": "Brazil"
+  },
+  {
+    "Rank": 14,
+    "City": "Port of Spain",
+    "Crime Index": 76.21,
+    "Safety Index": 23.79,
+    "Country": "Trinidad And Tobago"
+  },
+  {
+    "Rank": 15,
+    "City": "Baltimore",
+    "Crime Index": 75.75,
+    "Safety Index": 24.25,
+    "Country": "United States"
+  },
+  {
+    "Rank": 16,
+    "City": "Salvador",
+    "Crime Index": 75.69,
+    "Safety Index": 24.31,
+    "Country": "Brazil"
+  },
+  {
+    "Rank": 17,
+    "City": "Rosario",
+    "Crime Index": 75.11,
+    "Safety Index": 24.89,
+    "Country": "Argentina"
+  },
+  {
+    "Rank": 18,
+    "City": "Memphis",
+    "Crime Index": 74.76,
+    "Safety Index": 25.24,
+    "Country": "United States"
+  },
+  {
+    "Rank": 19,
+    "City": "Detroit",
+    "Crime Index": 74.63,
+    "Safety Index": 25.37,
+    "Country": "United States"
+  },
+  {
+    "Rank": 20,
+    "City": "Rockhampton",
+    "Crime Index": 73.51,
+    "Safety Index": 26.49,
+    "Country": "Australia"
+  },
+  {
+    "Rank": 21,
+    "City": "Cape Town",
+    "Crime Index": 73.13,
+    "Safety Index": 26.87,
+    "Country": "South Africa"
+  },
+  {
+    "Rank": 22,
+    "City": "Porto Alegre",
+    "Crime Index": 72.92,
+    "Safety Index": 27.08,
+    "Country": "Brazil"
+  },
+  {
+    "Rank": 23,
+    "City": "Tijuana",
+    "Crime Index": 71.87,
+    "Safety Index": 28.13,
+    "Country": "Mexico"
+  },
+  {
+    "Rank": 24,
+    "City": "Kingston",
+    "Crime Index": 71.44,
+    "Safety Index": 28.56,
+    "Country": "Jamaica"
+  },
+  {
+    "Rank": 25,
+    "City": "Bloemfontein",
+    "Crime Index": 71.32,
+    "Safety Index": 28.68,
+    "Country": "South Africa"
+  },
+  {
+    "Rank": 26,
+    "City": "Bradford",
+    "Crime Index": 71.24,
+    "Safety Index": 28.76,
+    "Country": "United Kingdom"
+  },
+  {
+    "Rank": 27,
+    "City": "Albuquerque",
+    "Crime Index": 70.93,
+    "Safety Index": 29.07,
+    "Country": "United States"
+  },
+  {
+    "Rank": 28,
+    "City": "Lima",
+    "Crime Index": 70.7,
+    "Safety Index": 29.3,
+    "Country": "Peru"
+  },
+  {
+    "Rank": 29,
+    "City": "Guayaquil",
+    "Crime Index": 70.59,
+    "Safety Index": 29.41,
+    "Country": "Ecuador"
+  },
+  {
+    "Rank": 30,
+    "City": "Sao Paulo",
+    "Crime Index": 70.49,
+    "Safety Index": 29.51,
+    "Country": "Brazil"
+  },
+  {
+    "Rank": 31,
+    "City": "Saint Louis",
+    "Crime Index": 70.46,
+    "Safety Index": 29.54,
+    "Country": "United States"
+  },
+  {
+    "Rank": 32,
+    "City": "San Salvador",
+    "Crime Index": 69.79,
+    "Safety Index": 30.21,
+    "Country": "El Salvador"
+  },
+  {
+    "Rank": 33,
+    "City": "Cali",
+    "Crime Index": 69.5,
+    "Safety Index": 30.5,
+    "Country": "Colombia"
+  },
+  {
+    "Rank": 34,
+    "City": "Mexico City",
+    "Crime Index": 68.86,
+    "Safety Index": 31.14,
+    "Country": "Mexico"
+  },
+  {
+    "Rank": 35,
+    "City": "Windhoek",
+    "Crime Index": 68.64,
+    "Safety Index": 31.36,
+    "Country": "Namibia"
+  },
+  {
+    "Rank": 36,
+    "City": "San Juan",
+    "Crime Index": 68.55,
+    "Safety Index": 31.45,
+    "Country": "Puerto Rico"
+  },
+  {
+    "Rank": 37,
+    "City": "Santo Domingo",
+    "Crime Index": 68.37,
+    "Safety Index": 31.63,
+    "Country": "Dominican Republic"
+  },
+  {
+    "Rank": 38,
+    "City": "Coventry",
+    "Crime Index": 68.35,
+    "Safety Index": 31.65,
+    "Country": "United Kingdom"
+  },
+  {
+    "Rank": 39,
+    "City": "Damascus",
+    "Crime Index": 67.94,
+    "Safety Index": 32.06,
+    "Country": "Syria"
+  },
+  {
+    "Rank": 40,
+    "City": "Luanda",
+    "Crime Index": 67.45,
+    "Safety Index": 32.55,
+    "Country": "Angola"
+  },
+  {
+    "Rank": 41,
+    "City": "New Orleans",
+    "Crime Index": 67.05,
+    "Safety Index": 32.95,
+    "Country": "United States"
+  },
+  {
+    "Rank": 42,
+    "City": "Milwaukee",
+    "Crime Index": 66.78,
+    "Safety Index": 33.22,
+    "Country": "United States"
+  },
+  {
+    "Rank": 43,
+    "City": "Campinas",
+    "Crime Index": 66.74,
+    "Safety Index": 33.26,
+    "Country": "Brazil"
+  },
+  {
+    "Rank": 44,
+    "City": "Oakland",
+    "Crime Index": 66.54,
+    "Safety Index": 33.46,
+    "Country": "United States"
+  },
+  {
+    "Rank": 45,
+    "City": "Lagos",
+    "Crime Index": 66.22,
+    "Safety Index": 33.78,
+    "Country": "Nigeria"
+  },
+  {
+    "Rank": 46,
+    "City": "Chicago",
+    "Crime Index": 66.1,
+    "Safety Index": 33.9,
+    "Country": "United States"
+  },
+  {
+    "Rank": 47,
+    "City": "Nantes",
+    "Crime Index": 65.7,
+    "Safety Index": 34.3,
+    "Country": "France"
+  },
+  {
+    "Rank": 48,
+    "City": "Bogota",
+    "Crime Index": 65.42,
+    "Safety Index": 34.58,
+    "Country": "Colombia"
+  },
+  {
+    "Rank": 49,
+    "City": "Manila",
+    "Crime Index": 64.72,
+    "Safety Index": 35.28,
+    "Country": "Philippines"
+  },
+  {
+    "Rank": 50,
+    "City": "Surrey",
+    "Crime Index": 64.58,
+    "Safety Index": 35.42,
+    "Country": "Canada"
+  },
+  {
+    "Rank": 51,
+    "City": "Cleveland",
+    "Crime Index": 64.39,
+    "Safety Index": 35.61,
+    "Country": "United States"
+  },
+  {
+    "Rank": 52,
+    "City": "Houston",
+    "Crime Index": 64.32,
+    "Safety Index": 35.68,
+    "Country": "United States"
+  },
+  {
+    "Rank": 53,
+    "City": "Almaty",
+    "Crime Index": 64.17,
+    "Safety Index": 35.83,
+    "Country": "Kazakhstan"
+  },
+  {
+    "Rank": 54,
+    "City": "Male",
+    "Crime Index": 63.89,
+    "Safety Index": 36.11,
+    "Country": "Maldives"
+  },
+  {
+    "Rank": 55,
+    "City": "Lethbridge",
+    "Crime Index": 63.89,
+    "Safety Index": 36.11,
+    "Country": "Canada"
+  },
+  {
+    "Rank": 56,
+    "City": "Dhaka",
+    "Crime Index": 63.66,
+    "Safety Index": 36.34,
+    "Country": "Bangladesh"
+  },
+  {
+    "Rank": 57,
+    "City": "Philadelphia",
+    "Crime Index": 63.65,
+    "Safety Index": 36.35,
+    "Country": "United States"
+  },
+  {
+    "Rank": 58,
+    "City": "Belo Horizonte",
+    "Crime Index": 63.54,
+    "Safety Index": 36.46,
+    "Country": "Brazil"
+  },
+  {
+    "Rank": 59,
+    "City": "Catania",
+    "Crime Index": 63.51,
+    "Safety Index": 36.49,
+    "Country": "Italy"
+  },
+  {
+    "Rank": 60,
+    "City": "Kuala Lumpur",
+    "Crime Index": 63.4,
+    "Safety Index": 36.6,
+    "Country": "Malaysia"
+  },
+  {
+    "Rank": 61,
+    "City": "Buenos Aires",
+    "Crime Index": 63.33,
+    "Safety Index": 36.67,
+    "Country": "Argentina"
+  },
+  {
+    "Rank": 62,
+    "City": "Klang",
+    "Crime Index": 62.84,
+    "Safety Index": 37.16,
+    "Country": "Malaysia"
+  },
+  {
+    "Rank": 63,
+    "City": "Atlanta",
+    "Crime Index": 62.77,
+    "Safety Index": 37.23,
+    "Country": "United States"
+  },
+  {
+    "Rank": 64,
+    "City": "Birmingham",
+    "Crime Index": 62.68,
+    "Safety Index": 37.32,
+    "Country": "United Kingdom"
+  },
+  {
+    "Rank": 65,
+    "City": "Guatemala City",
+    "Crime Index": 62.65,
+    "Safety Index": 37.35,
+    "Country": "Guatemala"
+  },
+  {
+    "Rank": 66,
+    "City": "Marseille",
+    "Crime Index": 62.51,
+    "Safety Index": 37.49,
+    "Country": "France"
+  },
+  {
+    "Rank": 67,
+    "City": "Tripoli",
+    "Crime Index": 62.29,
+    "Safety Index": 37.71,
+    "Country": "Libya"
+  },
+  {
+    "Rank": 68,
+    "City": "Anchorage",
+    "Crime Index": 62.27,
+    "Safety Index": 37.73,
+    "Country": "United States"
+  },
+  {
+    "Rank": 69,
+    "City": "Curitiba",
+    "Crime Index": 62.19,
+    "Safety Index": 37.81,
+    "Country": "Brazil"
+  },
+  {
+    "Rank": 70,
+    "City": "Guadalajara",
+    "Crime Index": 61.99,
+    "Safety Index": 38.01,
+    "Country": "Mexico"
+  },
+  {
+    "Rank": 71,
+    "City": "Red Deer",
+    "Crime Index": 61.75,
+    "Safety Index": 38.25,
+    "Country": "Canada"
+  },
+  {
+    "Rank": 72,
+    "City": "Kelowna",
+    "Crime Index": 61.56,
+    "Safety Index": 38.44,
+    "Country": "Canada"
+  },
+  {
+    "Rank": 73,
+    "City": "Quezon City",
+    "Crime Index": 60.99,
+    "Safety Index": 39.01,
+    "Country": "Philippines"
+  },
+  {
+    "Rank": 74,
+    "City": "Quito",
+    "Crime Index": 60.92,
+    "Safety Index": 39.08,
+    "Country": "Ecuador"
+  },
+  {
+    "Rank": 75,
+    "City": "Puebla",
+    "Crime Index": 60.58,
+    "Safety Index": 39.42,
+    "Country": "Mexico"
+  },
+  {
+    "Rank": 76,
+    "City": "Cairns",
+    "Crime Index": 60.57,
+    "Safety Index": 39.43,
+    "Country": "Australia"
+  },
+  {
+    "Rank": 77,
+    "City": "Cordoba",
+    "Crime Index": 60.38,
+    "Safety Index": 39.62,
+    "Country": "Argentina"
+  },
+  {
+    "Rank": 78,
+    "City": "Harare",
+    "Crime Index": 60.35,
+    "Safety Index": 39.65,
+    "Country": "Zimbabwe"
+  },
+  {
+    "Rank": 79,
+    "City": "Craiova",
+    "Crime Index": 60.2,
+    "Safety Index": 39.8,
+    "Country": "Romania"
+  },
+  {
+    "Rank": 80,
+    "City": "San Francisco",
+    "Crime Index": 60.1,
+    "Safety Index": 39.9,
+    "Country": "United States"
+  },
+  {
+    "Rank": 81,
+    "City": "Sudbury",
+    "Crime Index": 60.1,
+    "Safety Index": 39.9,
+    "Country": "Canada"
+  },
+  {
+    "Rank": 82,
+    "City": "Naples",
+    "Crime Index": 59.96,
+    "Safety Index": 40.04,
+    "Country": "Italy"
+  },
+  {
+    "Rank": 83,
+    "City": "Dar es Salaam",
+    "Crime Index": 59.9,
+    "Safety Index": 40.1,
+    "Country": "Tanzania"
+  },
+  {
+    "Rank": 84,
+    "City": "Ghaziabad",
+    "Crime Index": 59.83,
+    "Safety Index": 40.17,
+    "Country": "India"
+  },
+  {
+    "Rank": 85,
+    "City": "Sault Ste. Marie",
+    "Crime Index": 59.81,
+    "Safety Index": 40.19,
+    "Country": "Canada"
+  },
+  {
+    "Rank": 86,
+    "City": "Santiago",
+    "Crime Index": 59.8,
+    "Safety Index": 40.2,
+    "Country": "Chile"
+  },
+  {
+    "Rank": 87,
+    "City": "Brasilia",
+    "Crime Index": 59.46,
+    "Safety Index": 40.54,
+    "Country": "Brazil"
+  },
+  {
+    "Rank": 88,
+    "City": "Nice",
+    "Crime Index": 59.43,
+    "Safety Index": 40.57,
+    "Country": "France"
+  },
+  {
+    "Rank": 89,
+    "City": "Washington",
+    "Crime Index": 59.43,
+    "Safety Index": 40.57,
+    "Country": "United States"
+  },
+  {
+    "Rank": 90,
+    "City": "Delhi",
+    "Crime Index": 59.15,
+    "Safety Index": 40.85,
+    "Country": "India"
+  },
+  {
+    "Rank": 91,
+    "City": "Baghdad",
+    "Crime Index": 59.13,
+    "Safety Index": 40.87,
+    "Country": "Iraq"
+  },
+  {
+    "Rank": 92,
+    "City": "Nairobi",
+    "Crime Index": 59.03,
+    "Safety Index": 40.97,
+    "Country": "Kenya"
+  },
+  {
+    "Rank": 93,
+    "City": "Winnipeg",
+    "Crime Index": 58.93,
+    "Safety Index": 41.07,
+    "Country": "Canada"
+  },
+  {
+    "Rank": 94,
+    "City": "Minsk",
+    "Crime Index": 58.72,
+    "Safety Index": 41.28,
+    "Country": "Belarus"
+  },
+  {
+    "Rank": 95,
+    "City": "Darwin",
+    "Crime Index": 58.47,
+    "Safety Index": 41.53,
+    "Country": "Australia"
+  },
+  {
+    "Rank": 96,
+    "City": "Indianapolis",
+    "Crime Index": 57.66,
+    "Safety Index": 42.34,
+    "Country": "United States"
+  },
+  {
+    "Rank": 97,
+    "City": "Kansas City",
+    "Crime Index": 57.41,
+    "Safety Index": 42.59,
+    "Country": "United States"
+  },
+  {
+    "Rank": 98,
+    "City": "Liege",
+    "Crime Index": 57.38,
+    "Safety Index": 42.62,
+    "Country": "Belgium"
+  },
+  {
+    "Rank": 99,
+    "City": "Noida",
+    "Crime Index": 57.12,
+    "Safety Index": 42.88,
+    "Country": "India"
+  },
+  {
+    "Rank": 100,
+    "City": "Jacksonville",
+    "Crime Index": 56.82,
+    "Safety Index": 43.18,
+    "Country": "United States"
+  },
+  {
+    "Rank": 101,
+    "City": "Malmo",
+    "Crime Index": 56.59,
+    "Safety Index": 43.41,
+    "Country": "Sweden"
+  },
+  {
+    "Rank": 102,
+    "City": "Athens",
+    "Crime Index": 56.42,
+    "Safety Index": 43.58,
+    "Country": "Greece"
+  },
+  {
+    "Rank": 103,
+    "City": "Louisville",
+    "Crime Index": 56.06,
+    "Safety Index": 43.94,
+    "Country": "United States"
+  },
+  {
+    "Rank": 104,
+    "City": "Paris",
+    "Crime Index": 56.02,
+    "Safety Index": 43.98,
+    "Country": "France"
+  },
+  {
+    "Rank": 105,
+    "City": "Manchester",
+    "Crime Index": 55.81,
+    "Safety Index": 44.19,
+    "Country": "United Kingdom"
+  },
+  {
+    "Rank": 106,
+    "City": "Geelong",
+    "Crime Index": 55.76,
+    "Safety Index": 44.24,
+    "Country": "Australia"
+  },
+  {
+    "Rank": 107,
+    "City": "Tehran",
+    "Crime Index": 55.72,
+    "Safety Index": 44.28,
+    "Country": "Iran"
+  },
+  {
+    "Rank": 108,
+    "City": "Gaborone",
+    "Crime Index": 55.67,
+    "Safety Index": 44.33,
+    "Country": "Botswana"
+  },
+  {
+    "Rank": 109,
+    "City": "Casablanca",
+    "Crime Index": 55.39,
+    "Safety Index": 44.61,
+    "Country": "Morocco"
+  },
+  {
+    "Rank": 110,
+    "City": "San Jose",
+    "Crime Index": 55.38,
+    "Safety Index": 44.62,
+    "Country": "Costa Rica"
+  },
+  {
+    "Rank": 111,
+    "City": "Ulaanbaatar",
+    "Crime Index": 55.34,
+    "Safety Index": 44.66,
+    "Country": "Mongolia"
+  },
+  {
+    "Rank": 112,
+    "City": "Cancun",
+    "Crime Index": 55.18,
+    "Safety Index": 44.82,
+    "Country": "Mexico"
+  },
+  {
+    "Rank": 113,
+    "City": "Montpellier",
+    "Crime Index": 55.16,
+    "Safety Index": 44.84,
+    "Country": "France"
+  },
+  {
+    "Rank": 114,
+    "City": "Minneapolis",
+    "Crime Index": 55.1,
+    "Safety Index": 44.9,
+    "Country": "United States"
+  },
+  {
+    "Rank": 115,
+    "City": "Gurgaon",
+    "Crime Index": 55.09,
+    "Safety Index": 44.91,
+    "Country": "India"
+  },
+  {
+    "Rank": 116,
+    "City": "Oshawa",
+    "Crime Index": 55.08,
+    "Safety Index": 44.92,
+    "Country": "Canada"
+  },
+  {
+    "Rank": 117,
+    "City": "Spokane",
+    "Crime Index": 55.06,
+    "Safety Index": 44.94,
+    "Country": "United States"
+  },
+  {
+    "Rank": 118,
+    "City": "Ballarat",
+    "Crime Index": 55.05,
+    "Safety Index": 44.95,
+    "Country": "Australia"
+  },
+  {
+    "Rank": 119,
+    "City": "Brampton",
+    "Crime Index": 54.98,
+    "Safety Index": 45.02,
+    "Country": "Canada"
+  },
+  {
+    "Rank": 120,
+    "City": "Las Vegas",
+    "Crime Index": 54.89,
+    "Safety Index": 45.11,
+    "Country": "United States"
+  },
+  {
+    "Rank": 121,
+    "City": "Montevideo",
+    "Crime Index": 54.81,
+    "Safety Index": 45.19,
+    "Country": "Uruguay"
+  },
+  {
+    "Rank": 122,
+    "City": "Bangalore",
+    "Crime Index": 54.81,
+    "Safety Index": 45.19,
+    "Country": "India"
+  },
+  {
+    "Rank": 123,
+    "City": "Thessaloniki",
+    "Crime Index": 54.8,
+    "Safety Index": 45.2,
+    "Country": "Greece"
+  },
+  {
+    "Rank": 124,
+    "City": "Hamilton",
+    "Crime Index": 54.53,
+    "Safety Index": 45.47,
+    "Country": "Canada"
+  },
+  {
+    "Rank": 125,
+    "City": "Bilbao",
+    "Crime Index": 54.42,
+    "Safety Index": 45.58,
+    "Country": "Spain"
+  },
+  {
+    "Rank": 126,
+    "City": "Lille",
+    "Crime Index": 54.33,
+    "Safety Index": 45.67,
+    "Country": "France"
+  },
+  {
+    "Rank": 127,
+    "City": "Grenoble",
+    "Crime Index": 54.2,
+    "Safety Index": 45.8,
+    "Country": "France"
+  },
+  {
+    "Rank": 128,
+    "City": "Karachi",
+    "Crime Index": 54.1,
+    "Safety Index": 45.9,
+    "Country": "Pakistan"
+  },
+  {
+    "Rank": 129,
+    "City": "Johor Bahru",
+    "Crime Index": 54.07,
+    "Safety Index": 45.93,
+    "Country": "Malaysia"
+  },
+  {
+    "Rank": 130,
+    "City": "Algiers",
+    "Crime Index": 53.88,
+    "Safety Index": 46.12,
+    "Country": "Algeria"
+  },
+  {
+    "Rank": 131,
+    "City": "Ho Chi Minh City",
+    "Crime Index": 53.61,
+    "Safety Index": 46.39,
+    "Country": "Vietnam"
+  },
+  {
+    "Rank": 132,
+    "City": "London",
+    "Crime Index": 53.59,
+    "Safety Index": 46.41,
+    "Country": "Canada"
+  },
+  {
+    "Rank": 133,
+    "City": "Phnom Penh",
+    "Crime Index": 53.56,
+    "Safety Index": 46.44,
+    "Country": "Cambodia"
+  },
+  {
+    "Rank": 134,
+    "City": "Jakarta",
+    "Crime Index": 53.3,
+    "Safety Index": 46.7,
+    "Country": "Indonesia"
+  },
+  {
+    "Rank": 135,
+    "City": "London",
+    "Crime Index": 53.29,
+    "Safety Index": 46.71,
+    "Country": "United Kingdom"
+  },
+  {
+    "Rank": 136,
+    "City": "Toowoomba",
+    "Crime Index": 53.17,
+    "Safety Index": 46.83,
+    "Country": "Australia"
+  },
+  {
+    "Rank": 137,
+    "City": "Odessa (Odesa)",
+    "Crime Index": 53.17,
+    "Safety Index": 46.83,
+    "Country": "Ukraine"
+  },
+  {
+    "Rank": 138,
+    "City": "Medellin",
+    "Crime Index": 53.12,
+    "Safety Index": 46.88,
+    "Country": "Colombia"
+  },
+  {
+    "Rank": 139,
+    "City": "Rome",
+    "Crime Index": 53.11,
+    "Safety Index": 46.89,
+    "Country": "Italy"
+  },
+  {
+    "Rank": 140,
+    "City": "Rennes",
+    "Crime Index": 53,
+    "Safety Index": 47,
+    "Country": "France"
+  },
+  {
+    "Rank": 141,
+    "City": "Petaling Jaya",
+    "Crime Index": 52.99,
+    "Safety Index": 47.01,
+    "Country": "Malaysia"
+  },
+  {
+    "Rank": 142,
+    "City": "Amadora",
+    "Crime Index": 52.98,
+    "Safety Index": 47.02,
+    "Country": "Portugal"
+  },
+  {
+    "Rank": 143,
+    "City": "Drogheda",
+    "Crime Index": 52.96,
+    "Safety Index": 47.04,
+    "Country": "Ireland"
+  },
+  {
+    "Rank": 144,
+    "City": "Portland",
+    "Crime Index": 52.85,
+    "Safety Index": 47.15,
+    "Country": "United States"
+  },
+  {
+    "Rank": 145,
+    "City": "Regina",
+    "Crime Index": 52.82,
+    "Safety Index": 47.18,
+    "Country": "Canada"
+  },
+  {
+    "Rank": 146,
+    "City": "Kamloops",
+    "Crime Index": 52.63,
+    "Safety Index": 47.37,
+    "Country": "Canada"
+  },
+  {
+    "Rank": 147,
+    "City": "Brussels",
+    "Crime Index": 52.41,
+    "Safety Index": 47.59,
+    "Country": "Belgium"
+  },
+  {
+    "Rank": 148,
+    "City": "Dnipro",
+    "Crime Index": 52.31,
+    "Safety Index": 47.69,
+    "Country": "Ukraine"
+  },
+  {
+    "Rank": 149,
+    "City": "Rostov-na-donu",
+    "Crime Index": 52.3,
+    "Safety Index": 47.7,
+    "Country": "Russia"
+  },
+  {
+    "Rank": 150,
+    "City": "Miami",
+    "Crime Index": 52.28,
+    "Safety Index": 47.72,
+    "Country": "United States"
+  },
+  {
+    "Rank": 151,
+    "City": "Phoenix",
+    "Crime Index": 52.23,
+    "Safety Index": 47.77,
+    "Country": "United States"
+  },
+  {
+    "Rank": 152,
+    "City": "Bari",
+    "Crime Index": 52.15,
+    "Safety Index": 47.85,
+    "Country": "Italy"
+  },
+  {
+    "Rank": 153,
+    "City": "Dublin",
+    "Crime Index": 51.91,
+    "Safety Index": 48.09,
+    "Country": "Ireland"
+  },
+  {
+    "Rank": 154,
+    "City": "Cebu",
+    "Crime Index": 51.88,
+    "Safety Index": 48.12,
+    "Country": "Philippines"
+  },
+  {
+    "Rank": 155,
+    "City": "Wollongong",
+    "Crime Index": 51.73,
+    "Safety Index": 48.27,
+    "Country": "Australia"
+  },
+  {
+    "Rank": 156,
+    "City": "Florianopolis",
+    "Crime Index": 51.49,
+    "Safety Index": 48.51,
+    "Country": "Brazil"
+  },
+  {
+    "Rank": 157,
+    "City": "Orlando",
+    "Crime Index": 51.41,
+    "Safety Index": 48.59,
+    "Country": "United States"
+  },
+  {
+    "Rank": 158,
+    "City": "Ufa",
+    "Crime Index": 51.4,
+    "Safety Index": 48.6,
+    "Country": "Russia"
+  },
+  {
+    "Rank": 159,
+    "City": "San Miguel de Allende",
+    "Crime Index": 51.35,
+    "Safety Index": 48.65,
+    "Country": "Mexico"
+  },
+  {
+    "Rank": 160,
+    "City": "Seattle",
+    "Crime Index": 51.35,
+    "Safety Index": 48.65,
+    "Country": "United States"
+  },
+  {
+    "Rank": 161,
+    "City": "Lyon",
+    "Crime Index": 51.29,
+    "Safety Index": 48.71,
+    "Country": "France"
+  },
+  {
+    "Rank": 162,
+    "City": "Turin",
+    "Crime Index": 51.28,
+    "Safety Index": 48.72,
+    "Country": "Italy"
+  },
+  {
+    "Rank": 163,
+    "City": "Nottingham",
+    "Crime Index": 51.16,
+    "Safety Index": 48.84,
+    "Country": "United Kingdom"
+  },
+  {
+    "Rank": 164,
+    "City": "Los Angeles",
+    "Crime Index": 50.82,
+    "Safety Index": 49.18,
+    "Country": "United States"
+  },
+  {
+    "Rank": 165,
+    "City": "Dallas",
+    "Crime Index": 50.64,
+    "Safety Index": 49.36,
+    "Country": "United States"
+  },
+  {
+    "Rank": 166,
+    "City": "Tucson",
+    "Crime Index": 50.29,
+    "Safety Index": 49.71,
+    "Country": "United States"
+  },
+  {
+    "Rank": 167,
+    "City": "Cairo",
+    "Crime Index": 49.68,
+    "Safety Index": 50.32,
+    "Country": "Egypt"
+  },
+  {
+    "Rank": 168,
+    "City": "Playa del Carmen",
+    "Crime Index": 49.45,
+    "Safety Index": 50.55,
+    "Country": "Mexico"
+  },
+  {
+    "Rank": 169,
+    "City": "Constanta",
+    "Crime Index": 49.32,
+    "Safety Index": 50.68,
+    "Country": "Romania"
+  },
+  {
+    "Rank": 170,
+    "City": "Asuncion",
+    "Crime Index": 49.29,
+    "Safety Index": 50.71,
+    "Country": "Paraguay"
+  },
+  {
+    "Rank": 171,
+    "City": "Nanaimo",
+    "Crime Index": 49.23,
+    "Safety Index": 50.77,
+    "Country": "Canada"
+  },
+  {
+    "Rank": 172,
+    "City": "Toulouse",
+    "Crime Index": 48.92,
+    "Safety Index": 51.08,
+    "Country": "France"
+  },
+  {
+    "Rank": 173,
+    "City": "Barcelona",
+    "Crime Index": 48.87,
+    "Safety Index": 51.13,
+    "Country": "Spain"
+  },
+  {
+    "Rank": 174,
+    "City": "Mysore",
+    "Crime Index": 48.85,
+    "Safety Index": 51.15,
+    "Country": "India"
+  },
+  {
+    "Rank": 175,
+    "City": "Saskatoon",
+    "Crime Index": 48.81,
+    "Safety Index": 51.19,
+    "Country": "Canada"
+  },
+  {
+    "Rank": 176,
+    "City": "Kharkiv",
+    "Crime Index": 48.65,
+    "Safety Index": 51.35,
+    "Country": "Ukraine"
+  },
+  {
+    "Rank": 177,
+    "City": "Liverpool",
+    "Crime Index": 48.63,
+    "Safety Index": 51.37,
+    "Country": "United Kingdom"
+  },
+  {
+    "Rank": 178,
+    "City": "Indore",
+    "Crime Index": 48.61,
+    "Safety Index": 51.39,
+    "Country": "India"
+  },
+  {
+    "Rank": 179,
+    "City": "Sacramento",
+    "Crime Index": 48.6,
+    "Safety Index": 51.4,
+    "Country": "United States"
+  },
+  {
+    "Rank": 180,
+    "City": "Rawalpindi",
+    "Crime Index": 48.57,
+    "Safety Index": 51.43,
+    "Country": "Pakistan"
+  },
+  {
+    "Rank": 181,
+    "City": "Lucknow (Lakhnau)",
+    "Crime Index": 48.41,
+    "Safety Index": 51.59,
+    "Country": "India"
+  },
+  {
+    "Rank": 182,
+    "City": "Bordeaux",
+    "Crime Index": 48.39,
+    "Safety Index": 51.61,
+    "Country": "France"
+  },
+  {
+    "Rank": 183,
+    "City": "Cincinnati",
+    "Crime Index": 48.37,
+    "Safety Index": 51.63,
+    "Country": "United States"
+  },
+  {
+    "Rank": 184,
+    "City": "Bali",
+    "Crime Index": 48.36,
+    "Safety Index": 51.64,
+    "Country": "Indonesia"
+  },
+  {
+    "Rank": 185,
+    "City": "San Antonio",
+    "Crime Index": 48.24,
+    "Safety Index": 51.76,
+    "Country": "United States"
+  },
+  {
+    "Rank": 186,
+    "City": "New York",
+    "Crime Index": 48.13,
+    "Safety Index": 51.87,
+    "Country": "United States"
+  },
+  {
+    "Rank": 187,
+    "City": "Richmond",
+    "Crime Index": 47.77,
+    "Safety Index": 52.23,
+    "Country": "United States"
+  },
+  {
+    "Rank": 188,
+    "City": "Istanbul",
+    "Crime Index": 47.62,
+    "Safety Index": 52.38,
+    "Country": "Turkey"
+  },
+  {
+    "Rank": 189,
+    "City": "Tampa",
+    "Crime Index": 47.55,
+    "Safety Index": 52.45,
+    "Country": "United States"
+  },
+  {
+    "Rank": 190,
+    "City": "St.Catharines",
+    "Crime Index": 47.42,
+    "Safety Index": 52.58,
+    "Country": "Canada"
+  },
+  {
+    "Rank": 191,
+    "City": "Gothenburg",
+    "Crime Index": 47.34,
+    "Safety Index": 52.66,
+    "Country": "Sweden"
+  },
+  {
+    "Rank": 192,
+    "City": "Monterrey",
+    "Crime Index": 47.2,
+    "Safety Index": 52.8,
+    "Country": "Mexico"
+  },
+  {
+    "Rank": 193,
+    "City": "Podgorica",
+    "Crime Index": 47.2,
+    "Safety Index": 52.8,
+    "Country": "Montenegro"
+  },
+  {
+    "Rank": 194,
+    "City": "Panama City",
+    "Crime Index": 47.16,
+    "Safety Index": 52.84,
+    "Country": "Panama"
+  },
+  {
+    "Rank": 195,
+    "City": "Addis Ababa",
+    "Crime Index": 47.15,
+    "Safety Index": 52.85,
+    "Country": "Ethiopia"
+  },
+  {
+    "Rank": 196,
+    "City": "Tunis",
+    "Crime Index": 47.14,
+    "Safety Index": 52.86,
+    "Country": "Tunisia"
+  },
+  {
+    "Rank": 197,
+    "City": "Yekaterinburg",
+    "Crime Index": 47.13,
+    "Safety Index": 52.87,
+    "Country": "Russia"
+  },
+  {
+    "Rank": 198,
+    "City": "St. John's",
+    "Crime Index": 46.99,
+    "Safety Index": 53.01,
+    "Country": "Canada"
+  },
+  {
+    "Rank": 199,
+    "City": "Novosibirsk",
+    "Crime Index": 46.92,
+    "Safety Index": 53.08,
+    "Country": "Russia"
+  },
+  {
+    "Rank": 200,
+    "City": "Accra",
+    "Crime Index": 46.88,
+    "Safety Index": 53.12,
+    "Country": "Ghana"
+  },
+  {
+    "Rank": 201,
+    "City": "Milan",
+    "Crime Index": 46.84,
+    "Safety Index": 53.16,
+    "Country": "Italy"
+  },
+  {
+    "Rank": 202,
+    "City": "Nashville",
+    "Crime Index": 46.84,
+    "Safety Index": 53.16,
+    "Country": "United States"
+  },
+  {
+    "Rank": 203,
+    "City": "Omaha",
+    "Crime Index": 46.76,
+    "Safety Index": 53.24,
+    "Country": "United States"
+  },
+  {
+    "Rank": 204,
+    "City": "Skopje",
+    "Crime Index": 46.76,
+    "Safety Index": 53.24,
+    "Country": "North Macedonia"
+  },
+  {
+    "Rank": 205,
+    "City": "Auckland",
+    "Crime Index": 46.75,
+    "Safety Index": 53.25,
+    "Country": "New Zealand"
+  },
+  {
+    "Rank": 206,
+    "City": "Kolkata",
+    "Crime Index": 46.68,
+    "Safety Index": 53.32,
+    "Country": "India"
+  },
+  {
+    "Rank": 207,
+    "City": "Beirut",
+    "Crime Index": 46.67,
+    "Safety Index": 53.33,
+    "Country": "Lebanon"
+  },
+  {
+    "Rank": 208,
+    "City": "Bologna",
+    "Crime Index": 46.62,
+    "Safety Index": 53.38,
+    "Country": "Italy"
+  },
+  {
+    "Rank": 209,
+    "City": "Newcastle",
+    "Crime Index": 46.6,
+    "Safety Index": 53.4,
+    "Country": "Australia"
+  },
+  {
+    "Rank": 210,
+    "City": "Palermo",
+    "Crime Index": 46.59,
+    "Safety Index": 53.41,
+    "Country": "Italy"
+  },
+  {
+    "Rank": 211,
+    "City": "Hamilton",
+    "Crime Index": 46.57,
+    "Safety Index": 53.43,
+    "Country": "New Zealand"
+  },
+  {
+    "Rank": 212,
+    "City": "Pattaya",
+    "Crime Index": 46.45,
+    "Safety Index": 53.55,
+    "Country": "Thailand"
+  },
+  {
+    "Rank": 213,
+    "City": "Buffalo",
+    "Crime Index": 46.45,
+    "Safety Index": 53.55,
+    "Country": "United States"
+  },
+  {
+    "Rank": 214,
+    "City": "Honolulu",
+    "Crime Index": 46.24,
+    "Safety Index": 53.76,
+    "Country": "United States"
+  },
+  {
+    "Rank": 215,
+    "City": "Gold Coast",
+    "Crime Index": 46.19,
+    "Safety Index": 53.81,
+    "Country": "Australia"
+  },
+  {
+    "Rank": 216,
+    "City": "Stockholm",
+    "Crime Index": 45.97,
+    "Safety Index": 54.03,
+    "Country": "Sweden"
+  },
+  {
+    "Rank": 217,
+    "City": "Glasgow",
+    "Crime Index": 45.93,
+    "Safety Index": 54.07,
+    "Country": "United Kingdom"
+  },
+  {
+    "Rank": 218,
+    "City": "San Jose",
+    "Crime Index": 45.9,
+    "Safety Index": 54.1,
+    "Country": "United States"
+  },
+  {
+    "Rank": 219,
+    "City": "Charlotte",
+    "Crime Index": 45.77,
+    "Safety Index": 54.23,
+    "Country": "United States"
+  },
+  {
+    "Rank": 220,
+    "City": "Vitoria",
+    "Crime Index": 45.72,
+    "Safety Index": 54.28,
+    "Country": "Brazil"
+  },
+  {
+    "Rank": 221,
+    "City": "Kiev (Kyiv)",
+    "Crime Index": 45.69,
+    "Safety Index": 54.31,
+    "Country": "Ukraine"
+  },
+  {
+    "Rank": 222,
+    "City": "Kuching",
+    "Crime Index": 45.45,
+    "Safety Index": 54.55,
+    "Country": "Malaysia"
+  },
+  {
+    "Rank": 223,
+    "City": "Mumbai",
+    "Crime Index": 45.28,
+    "Safety Index": 54.72,
+    "Country": "India"
+  },
+  {
+    "Rank": 224,
+    "City": "Sarajevo",
+    "Crime Index": 45.21,
+    "Safety Index": 54.79,
+    "Country": "Bosnia And Herzegovina"
+  },
+  {
+    "Rank": 225,
+    "City": "Moncton",
+    "Crime Index": 45.04,
+    "Safety Index": 54.96,
+    "Country": "Canada"
+  },
+  {
+    "Rank": 226,
+    "City": "Belfast",
+    "Crime Index": 44.9,
+    "Safety Index": 55.1,
+    "Country": "United Kingdom"
+  },
+  {
+    "Rank": 227,
+    "City": "Denver",
+    "Crime Index": 44.87,
+    "Safety Index": 55.13,
+    "Country": "United States"
+  },
+  {
+    "Rank": 228,
+    "City": "Chisinau",
+    "Crime Index": 44.74,
+    "Safety Index": 55.26,
+    "Country": "Moldova"
+  },
+  {
+    "Rank": 229,
+    "City": "Edmonton",
+    "Crime Index": 44.56,
+    "Safety Index": 55.44,
+    "Country": "Canada"
+  },
+  {
+    "Rank": 230,
+    "City": "Tirana",
+    "Crime Index": 44.5,
+    "Safety Index": 55.5,
+    "Country": "Albania"
+  },
+  {
+    "Rank": 231,
+    "City": "Melbourne",
+    "Crime Index": 44.39,
+    "Safety Index": 55.61,
+    "Country": "Australia"
+  },
+  {
+    "Rank": 232,
+    "City": "Frankfurt",
+    "Crime Index": 44.12,
+    "Safety Index": 55.88,
+    "Country": "Germany"
+  },
+  {
+    "Rank": 233,
+    "City": "Kristiansand",
+    "Crime Index": 44.06,
+    "Safety Index": 55.94,
+    "Country": "Norway"
+  },
+  {
+    "Rank": 234,
+    "City": "Columbus",
+    "Crime Index": 43.98,
+    "Safety Index": 56.02,
+    "Country": "United States"
+  },
+  {
+    "Rank": 235,
+    "City": "Hyderabad",
+    "Crime Index": 43.87,
+    "Safety Index": 56.13,
+    "Country": "India"
+  },
+  {
+    "Rank": 236,
+    "City": "Sheffield",
+    "Crime Index": 43.86,
+    "Safety Index": 56.14,
+    "Country": "United Kingdom"
+  },
+  {
+    "Rank": 237,
+    "City": "Chandigarh",
+    "Crime Index": 43.46,
+    "Safety Index": 56.54,
+    "Country": "India"
+  },
+  {
+    "Rank": 238,
+    "City": "Leeds",
+    "Crime Index": 43.34,
+    "Safety Index": 56.66,
+    "Country": "United Kingdom"
+  },
+  {
+    "Rank": 239,
+    "City": "Windsor",
+    "Crime Index": 43.25,
+    "Safety Index": 56.75,
+    "Country": "Canada"
+  },
+  {
+    "Rank": 240,
+    "City": "Mississauga",
+    "Crime Index": 43.06,
+    "Safety Index": 56.94,
+    "Country": "Canada"
+  },
+  {
+    "Rank": 241,
+    "City": "Vaughan",
+    "Crime Index": 42.7,
+    "Safety Index": 57.3,
+    "Country": "Canada"
+  },
+  {
+    "Rank": 242,
+    "City": "Cologne",
+    "Crime Index": 42.65,
+    "Safety Index": 57.35,
+    "Country": "Germany"
+  },
+  {
+    "Rank": 243,
+    "City": "Hamburg",
+    "Crime Index": 42.56,
+    "Safety Index": 57.44,
+    "Country": "Germany"
+  },
+  {
+    "Rank": 244,
+    "City": "Genoa",
+    "Crime Index": 42.51,
+    "Safety Index": 57.49,
+    "Country": "Italy"
+  },
+  {
+    "Rank": 245,
+    "City": "Berlin",
+    "Crime Index": 42.24,
+    "Safety Index": 57.76,
+    "Country": "Germany"
+  },
+  {
+    "Rank": 246,
+    "City": "Sofia",
+    "Crime Index": 42.13,
+    "Safety Index": 57.87,
+    "Country": "Bulgaria"
+  },
+  {
+    "Rank": 247,
+    "City": "Lodz",
+    "Crime Index": 42.09,
+    "Safety Index": 57.91,
+    "Country": "Poland"
+  },
+  {
+    "Rank": 248,
+    "City": "Bristol",
+    "Crime Index": 41.81,
+    "Safety Index": 58.19,
+    "Country": "United Kingdom"
+  },
+  {
+    "Rank": 249,
+    "City": "Perth",
+    "Crime Index": 41.61,
+    "Safety Index": 58.39,
+    "Country": "Australia"
+  },
+  {
+    "Rank": 250,
+    "City": "Pune",
+    "Crime Index": 41.56,
+    "Safety Index": 58.44,
+    "Country": "India"
+  },
+  {
+    "Rank": 251,
+    "City": "Bremen",
+    "Crime Index": 41.52,
+    "Safety Index": 58.48,
+    "Country": "Germany"
+  },
+  {
+    "Rank": 252,
+    "City": "Toronto",
+    "Crime Index": 41.52,
+    "Safety Index": 58.48,
+    "Country": "Canada"
+  },
+  {
+    "Rank": 253,
+    "City": "Novi Sad",
+    "Crime Index": 41.41,
+    "Safety Index": 58.59,
+    "Country": "Serbia"
+  },
+  {
+    "Rank": 254,
+    "City": "Iloilo",
+    "Crime Index": 41.38,
+    "Safety Index": 58.62,
+    "Country": "Philippines"
+  },
+  {
+    "Rank": 255,
+    "City": "Cuenca",
+    "Crime Index": 41.36,
+    "Safety Index": 58.64,
+    "Country": "Ecuador"
+  },
+  {
+    "Rank": 256,
+    "City": "Hanover",
+    "Crime Index": 41.29,
+    "Safety Index": 58.71,
+    "Country": "Germany"
+  },
+  {
+    "Rank": 257,
+    "City": "Katowice",
+    "Crime Index": 41.26,
+    "Safety Index": 58.74,
+    "Country": "Poland"
+  },
+  {
+    "Rank": 258,
+    "City": "Kochi",
+    "Crime Index": 41.21,
+    "Safety Index": 58.79,
+    "Country": "India"
+  },
+  {
+    "Rank": 259,
+    "City": "Colombo",
+    "Crime Index": 41.19,
+    "Safety Index": 58.81,
+    "Country": "Sri Lanka"
+  },
+  {
+    "Rank": 260,
+    "City": "Halifax",
+    "Crime Index": 41.16,
+    "Safety Index": 58.84,
+    "Country": "Canada"
+  },
+  {
+    "Rank": 261,
+    "City": "Christchurch",
+    "Crime Index": 41.15,
+    "Safety Index": 58.85,
+    "Country": "New Zealand"
+  },
+  {
+    "Rank": 262,
+    "City": "Bangkok",
+    "Crime Index": 40.98,
+    "Safety Index": 59.02,
+    "Country": "Thailand"
+  },
+  {
+    "Rank": 263,
+    "City": "Kitchener",
+    "Crime Index": 40.97,
+    "Safety Index": 59.03,
+    "Country": "Canada"
+  },
+  {
+    "Rank": 264,
+    "City": "Leipzig",
+    "Crime Index": 40.86,
+    "Safety Index": 59.14,
+    "Country": "Germany"
+  },
+  {
+    "Rank": 265,
+    "City": "Brooklyn",
+    "Crime Index": 40.78,
+    "Safety Index": 59.22,
+    "Country": "United States"
+  },
+  {
+    "Rank": 266,
+    "City": "Uppsala",
+    "Crime Index": 40.56,
+    "Safety Index": 59.44,
+    "Country": "Sweden"
+  },
+  {
+    "Rank": 267,
+    "City": "Chennai",
+    "Crime Index": 40.45,
+    "Safety Index": 59.55,
+    "Country": "India"
+  },
+  {
+    "Rank": 268,
+    "City": "Bonn",
+    "Crime Index": 40.43,
+    "Safety Index": 59.57,
+    "Country": "Germany"
+  },
+  {
+    "Rank": 269,
+    "City": "Limerick",
+    "Crime Index": 40.28,
+    "Safety Index": 59.72,
+    "Country": "Ireland"
+  },
+  {
+    "Rank": 270,
+    "City": "Alexandria",
+    "Crime Index": 40.24,
+    "Safety Index": 59.76,
+    "Country": "Egypt"
+  },
+  {
+    "Rank": 271,
+    "City": "Florence",
+    "Crime Index": 40.23,
+    "Safety Index": 59.77,
+    "Country": "Italy"
+  },
+  {
+    "Rank": 272,
+    "City": "Thiruvananthapuram",
+    "Crime Index": 39.54,
+    "Safety Index": 60.46,
+    "Country": "India"
+  },
+  {
+    "Rank": 273,
+    "City": "Coimbatore",
+    "Crime Index": 39.53,
+    "Safety Index": 60.47,
+    "Country": "India"
+  },
+  {
+    "Rank": 274,
+    "City": "Saint Petersburg",
+    "Crime Index": 39.51,
+    "Safety Index": 60.49,
+    "Country": "Russia"
+  },
+  {
+    "Rank": 275,
+    "City": "Ankara",
+    "Crime Index": 39.41,
+    "Safety Index": 60.59,
+    "Country": "Turkey"
+  },
+  {
+    "Rank": 276,
+    "City": "Boston",
+    "Crime Index": 39.25,
+    "Safety Index": 60.75,
+    "Country": "United States"
+  },
+  {
+    "Rank": 277,
+    "City": "Newcastle upon Tyne",
+    "Crime Index": 39.15,
+    "Safety Index": 60.85,
+    "Country": "United Kingdom"
+  },
+  {
+    "Rank": 278,
+    "City": "Riverside",
+    "Crime Index": 38.97,
+    "Safety Index": 61.03,
+    "Country": "United States"
+  },
+  {
+    "Rank": 279,
+    "City": "Lviv",
+    "Crime Index": 38.89,
+    "Safety Index": 61.11,
+    "Country": "Ukraine"
+  },
+  {
+    "Rank": 280,
+    "City": "Amman",
+    "Crime Index": 38.82,
+    "Safety Index": 61.18,
+    "Country": "Jordan"
+  },
+  {
+    "Rank": 281,
+    "City": "Makati",
+    "Crime Index": 38.39,
+    "Safety Index": 61.61,
+    "Country": "Philippines"
+  },
+  {
+    "Rank": 282,
+    "City": "Vancouver",
+    "Crime Index": 38.25,
+    "Safety Index": 61.75,
+    "Country": "Canada"
+  },
+  {
+    "Rank": 283,
+    "City": "Pittsburgh",
+    "Crime Index": 38.19,
+    "Safety Index": 61.81,
+    "Country": "United States"
+  },
+  {
+    "Rank": 284,
+    "City": "Hanoi",
+    "Crime Index": 38.12,
+    "Safety Index": 61.88,
+    "Country": "Vietnam"
+  },
+  {
+    "Rank": 285,
+    "City": "Karlsruhe",
+    "Crime Index": 38.09,
+    "Safety Index": 61.91,
+    "Country": "Germany"
+  },
+  {
+    "Rank": 286,
+    "City": "Victoria",
+    "Crime Index": 38.05,
+    "Safety Index": 61.95,
+    "Country": "Canada"
+  },
+  {
+    "Rank": 287,
+    "City": "Belgrade",
+    "Crime Index": 38.01,
+    "Safety Index": 61.99,
+    "Country": "Serbia"
+  },
+  {
+    "Rank": 288,
+    "City": "Strasbourg",
+    "Crime Index": 37.93,
+    "Safety Index": 62.07,
+    "Country": "France"
+  },
+  {
+    "Rank": 289,
+    "City": "Riga",
+    "Crime Index": 37.91,
+    "Safety Index": 62.09,
+    "Country": "Latvia"
+  },
+  {
+    "Rank": 290,
+    "City": "Visakhapatnam",
+    "Crime Index": 37.8,
+    "Safety Index": 62.2,
+    "Country": "India"
+  },
+  {
+    "Rank": 291,
+    "City": "Kaunas",
+    "Crime Index": 37.58,
+    "Safety Index": 62.42,
+    "Country": "Lithuania"
+  },
+  {
+    "Rank": 292,
+    "City": "Antwerp",
+    "Crime Index": 37.56,
+    "Safety Index": 62.44,
+    "Country": "Belgium"
+  },
+  {
+    "Rank": 293,
+    "City": "Cardiff",
+    "Crime Index": 37.51,
+    "Safety Index": 62.49,
+    "Country": "United Kingdom"
+  },
+  {
+    "Rank": 294,
+    "City": "Kathmandu",
+    "Crime Index": 37.25,
+    "Safety Index": 62.75,
+    "Country": "Nepal"
+  },
+  {
+    "Rank": 295,
+    "City": "Moscow",
+    "Crime Index": 37.25,
+    "Safety Index": 62.75,
+    "Country": "Russia"
+  },
+  {
+    "Rank": 296,
+    "City": "Austin",
+    "Crime Index": 37.25,
+    "Safety Index": 62.75,
+    "Country": "United States"
+  },
+  {
+    "Rank": 297,
+    "City": "Baguio",
+    "Crime Index": 37.17,
+    "Safety Index": 62.83,
+    "Country": "Philippines"
+  },
+  {
+    "Rank": 298,
+    "City": "San Diego",
+    "Crime Index": 37.15,
+    "Safety Index": 62.85,
+    "Country": "United States"
+  },
+  {
+    "Rank": 299,
+    "City": "Varna",
+    "Crime Index": 37.13,
+    "Safety Index": 62.87,
+    "Country": "Bulgaria"
+  },
+  {
+    "Rank": 300,
+    "City": "Calgary",
+    "Crime Index": 36.82,
+    "Safety Index": 63.18,
+    "Country": "Canada"
+  },
+  {
+    "Rank": 301,
+    "City": "Nagpur",
+    "Crime Index": 36.77,
+    "Safety Index": 63.23,
+    "Country": "India"
+  },
+  {
+    "Rank": 302,
+    "City": "Queretaro",
+    "Crime Index": 36.74,
+    "Safety Index": 63.26,
+    "Country": "Mexico"
+  },
+  {
+    "Rank": 303,
+    "City": "Oulu",
+    "Crime Index": 36.51,
+    "Safety Index": 63.49,
+    "Country": "Finland"
+  },
+  {
+    "Rank": 304,
+    "City": "Brighton",
+    "Crime Index": 36.49,
+    "Safety Index": 63.51,
+    "Country": "United Kingdom"
+  },
+  {
+    "Rank": 305,
+    "City": "Klaipeda",
+    "Crime Index": 36.46,
+    "Safety Index": 63.54,
+    "Country": "Lithuania"
+  },
+  {
+    "Rank": 306,
+    "City": "Guangzhou",
+    "Crime Index": 36.41,
+    "Safety Index": 63.59,
+    "Country": "China"
+  },
+  {
+    "Rank": 307,
+    "City": "Cagliari",
+    "Crime Index": 36.37,
+    "Safety Index": 63.63,
+    "Country": "Italy"
+  },
+  {
+    "Rank": 308,
+    "City": "Jerusalem",
+    "Crime Index": 36.24,
+    "Safety Index": 63.76,
+    "Country": "Israel"
+  },
+  {
+    "Rank": 309,
+    "City": "Rabat",
+    "Crime Index": 36.17,
+    "Safety Index": 63.83,
+    "Country": "Morocco"
+  },
+  {
+    "Rank": 310,
+    "City": "Rotterdam",
+    "Crime Index": 36.16,
+    "Safety Index": 63.84,
+    "Country": "Netherlands"
+  },
+  {
+    "Rank": 311,
+    "City": "Cork",
+    "Crime Index": 36.03,
+    "Safety Index": 63.97,
+    "Country": "Ireland"
+  },
+  {
+    "Rank": 312,
+    "City": "Lahore",
+    "Crime Index": 35.77,
+    "Safety Index": 64.23,
+    "Country": "Pakistan"
+  },
+  {
+    "Rank": 313,
+    "City": "Boise",
+    "Crime Index": 35.66,
+    "Safety Index": 64.34,
+    "Country": "United States"
+  },
+  {
+    "Rank": 314,
+    "City": "Penang",
+    "Crime Index": 35.59,
+    "Safety Index": 64.41,
+    "Country": "Malaysia"
+  },
+  {
+    "Rank": 315,
+    "City": "Surat",
+    "Crime Index": 35.55,
+    "Safety Index": 64.45,
+    "Country": "India"
+  },
+  {
+    "Rank": 316,
+    "City": "Jaipur",
+    "Crime Index": 35.52,
+    "Safety Index": 64.48,
+    "Country": "India"
+  },
+  {
+    "Rank": 317,
+    "City": "Porto",
+    "Crime Index": 35.35,
+    "Safety Index": 64.65,
+    "Country": "Portugal"
+  },
+  {
+    "Rank": 318,
+    "City": "Budapest",
+    "Crime Index": 35.06,
+    "Safety Index": 64.94,
+    "Country": "Hungary"
+  },
+  {
+    "Rank": 319,
+    "City": "Brisbane",
+    "Crime Index": 35.05,
+    "Safety Index": 64.95,
+    "Country": "Australia"
+  },
+  {
+    "Rank": 320,
+    "City": "Banja Luka",
+    "Crime Index": 34.77,
+    "Safety Index": 65.23,
+    "Country": "Bosnia And Herzegovina"
+  },
+  {
+    "Rank": 321,
+    "City": "Raleigh",
+    "Crime Index": 34.6,
+    "Safety Index": 65.4,
+    "Country": "United States"
+  },
+  {
+    "Rank": 322,
+    "City": "Puerto Vallarta",
+    "Crime Index": 34.43,
+    "Safety Index": 65.57,
+    "Country": "Mexico"
+  },
+  {
+    "Rank": 323,
+    "City": "Navi Mumbai",
+    "Crime Index": 34.33,
+    "Safety Index": 65.67,
+    "Country": "India"
+  },
+  {
+    "Rank": 324,
+    "City": "Kingston",
+    "Crime Index": 34.17,
+    "Safety Index": 65.83,
+    "Country": "Canada"
+  },
+  {
+    "Rank": 325,
+    "City": "Dusseldorf",
+    "Crime Index": 34.06,
+    "Safety Index": 65.94,
+    "Country": "Germany"
+  },
+  {
+    "Rank": 326,
+    "City": "Oslo",
+    "Crime Index": 34.06,
+    "Safety Index": 65.94,
+    "Country": "Norway"
+  },
+  {
+    "Rank": 327,
+    "City": "Madison",
+    "Crime Index": 33.98,
+    "Safety Index": 66.02,
+    "Country": "United States"
+  },
+  {
+    "Rank": 328,
+    "City": "Lund",
+    "Crime Index": 33.96,
+    "Safety Index": 66.04,
+    "Country": "Sweden"
+  },
+  {
+    "Rank": 329,
+    "City": "Tashkent",
+    "Crime Index": 33.86,
+    "Safety Index": 66.14,
+    "Country": "Uzbekistan"
+  },
+  {
+    "Rank": 330,
+    "City": "Sydney",
+    "Crime Index": 33.81,
+    "Safety Index": 66.19,
+    "Country": "Australia"
+  },
+  {
+    "Rank": 331,
+    "City": "Aguascalientes",
+    "Crime Index": 33.74,
+    "Safety Index": 66.26,
+    "Country": "Mexico"
+  },
+  {
+    "Rank": 332,
+    "City": "Aberdeen",
+    "Crime Index": 33.68,
+    "Safety Index": 66.32,
+    "Country": "United Kingdom"
+  },
+  {
+    "Rank": 333,
+    "City": "Iasi",
+    "Crime Index": 33.67,
+    "Safety Index": 66.33,
+    "Country": "Romania"
+  },
+  {
+    "Rank": 334,
+    "City": "Split",
+    "Crime Index": 33.62,
+    "Safety Index": 66.38,
+    "Country": "Croatia"
+  },
+  {
+    "Rank": 335,
+    "City": "Nuremberg",
+    "Crime Index": 33.48,
+    "Safety Index": 66.52,
+    "Country": "Germany"
+  },
+  {
+    "Rank": 336,
+    "City": "Shanghai",
+    "Crime Index": 33.41,
+    "Safety Index": 66.59,
+    "Country": "China"
+  },
+  {
+    "Rank": 337,
+    "City": "Guelph",
+    "Crime Index": 33.17,
+    "Safety Index": 66.83,
+    "Country": "Canada"
+  },
+  {
+    "Rank": 338,
+    "City": "Astana (Nur-Sultan)",
+    "Crime Index": 33.13,
+    "Safety Index": 66.87,
+    "Country": "Kazakhstan"
+  },
+  {
+    "Rank": 339,
+    "City": "Salt Lake City",
+    "Crime Index": 33.11,
+    "Safety Index": 66.89,
+    "Country": "United States"
+  },
+  {
+    "Rank": 340,
+    "City": "Amsterdam",
+    "Crime Index": 33.06,
+    "Safety Index": 66.94,
+    "Country": "Netherlands"
+  },
+  {
+    "Rank": 341,
+    "City": "Vadodara",
+    "Crime Index": 32.92,
+    "Safety Index": 67.08,
+    "Country": "India"
+  },
+  {
+    "Rank": 342,
+    "City": "El Paso",
+    "Crime Index": 32.72,
+    "Safety Index": 67.28,
+    "Country": "United States"
+  },
+  {
+    "Rank": 343,
+    "City": "Beijing",
+    "Crime Index": 32.44,
+    "Safety Index": 67.56,
+    "Country": "China"
+  },
+  {
+    "Rank": 344,
+    "City": "Ahmedabad",
+    "Crime Index": 32.4,
+    "Safety Index": 67.6,
+    "Country": "India"
+  },
+  {
+    "Rank": 345,
+    "City": "Osaka",
+    "Crime Index": 32.35,
+    "Safety Index": 67.65,
+    "Country": "Japan"
+  },
+  {
+    "Rank": 346,
+    "City": "Palma de Mallorca",
+    "Crime Index": 32.28,
+    "Safety Index": 67.72,
+    "Country": "Spain"
+  },
+  {
+    "Rank": 347,
+    "City": "Hobart",
+    "Crime Index": 32.18,
+    "Safety Index": 67.82,
+    "Country": "Australia"
+  },
+  {
+    "Rank": 348,
+    "City": "Limassol",
+    "Crime Index": 32.05,
+    "Safety Index": 67.95,
+    "Country": "Cyprus"
+  },
+  {
+    "Rank": 349,
+    "City": "Shenzhen",
+    "Crime Index": 31.86,
+    "Safety Index": 68.14,
+    "Country": "China"
+  },
+  {
+    "Rank": 350,
+    "City": "Seville (Sevilla)",
+    "Crime Index": 31.59,
+    "Safety Index": 68.41,
+    "Country": "Spain"
+  },
+  {
+    "Rank": 351,
+    "City": "Freiburg im Breisgau",
+    "Crime Index": 31.57,
+    "Safety Index": 68.43,
+    "Country": "Germany"
+  },
+  {
+    "Rank": 352,
+    "City": "Gdansk",
+    "Crime Index": 31.41,
+    "Safety Index": 68.59,
+    "Country": "Poland"
+  },
+  {
+    "Rank": 353,
+    "City": "Havana",
+    "Crime Index": 31.2,
+    "Safety Index": 68.8,
+    "Country": "Cuba"
+  },
+  {
+    "Rank": 354,
+    "City": "Montreal",
+    "Crime Index": 30.99,
+    "Safety Index": 69.01,
+    "Country": "Canada"
+  },
+  {
+    "Rank": 355,
+    "City": "Izmir",
+    "Crime Index": 30.94,
+    "Safety Index": 69.06,
+    "Country": "Turkey"
+  },
+  {
+    "Rank": 356,
+    "City": "Wroclaw",
+    "Crime Index": 30.87,
+    "Safety Index": 69.13,
+    "Country": "Poland"
+  },
+  {
+    "Rank": 357,
+    "City": "Stuttgart",
+    "Crime Index": 30.71,
+    "Safety Index": 69.29,
+    "Country": "Germany"
+  },
+  {
+    "Rank": 358,
+    "City": "Dresden",
+    "Crime Index": 30.63,
+    "Safety Index": 69.37,
+    "Country": "Germany"
+  },
+  {
+    "Rank": 359,
+    "City": "Wellington",
+    "Crime Index": 30.61,
+    "Safety Index": 69.39,
+    "Country": "New Zealand"
+  },
+  {
+    "Rank": 360,
+    "City": "Poznan",
+    "Crime Index": 30.57,
+    "Safety Index": 69.43,
+    "Country": "Poland"
+  },
+  {
+    "Rank": 361,
+    "City": "Kuwait City",
+    "Crime Index": 30.55,
+    "Safety Index": 69.45,
+    "Country": "Kuwait"
+  },
+  {
+    "Rank": 362,
+    "City": "Edinburgh",
+    "Crime Index": 30.51,
+    "Safety Index": 69.49,
+    "Country": "United Kingdom"
+  },
+  {
+    "Rank": 363,
+    "City": "Baku",
+    "Crime Index": 30.36,
+    "Safety Index": 69.64,
+    "Country": "Azerbaijan"
+  },
+  {
+    "Rank": 364,
+    "City": "Ad Dammam",
+    "Crime Index": 30.29,
+    "Safety Index": 69.71,
+    "Country": "Saudi Arabia"
+  },
+  {
+    "Rank": 365,
+    "City": "Krakow (Cracow)",
+    "Crime Index": 30.28,
+    "Safety Index": 69.72,
+    "Country": "Poland"
+  },
+  {
+    "Rank": 366,
+    "City": "Luxembourg",
+    "Crime Index": 30.15,
+    "Safety Index": 69.85,
+    "Country": "Luxembourg"
+  },
+  {
+    "Rank": 367,
+    "City": "Madrid",
+    "Crime Index": 30.06,
+    "Safety Index": 69.94,
+    "Country": "Spain"
+  },
+  {
+    "Rank": 368,
+    "City": "Burlington",
+    "Crime Index": 30,
+    "Safety Index": 70,
+    "Country": "Canada"
+  },
+  {
+    "Rank": 369,
+    "City": "Adelaide",
+    "Crime Index": 29.98,
+    "Safety Index": 70.02,
+    "Country": "Australia"
+  },
+  {
+    "Rank": 370,
+    "City": "Bratislava",
+    "Crime Index": 29.89,
+    "Safety Index": 70.11,
+    "Country": "Slovakia"
+  },
+  {
+    "Rank": 371,
+    "City": "Nicosia",
+    "Crime Index": 29.87,
+    "Safety Index": 70.13,
+    "Country": "Cyprus"
+  },
+  {
+    "Rank": 372,
+    "City": "Cambridge",
+    "Crime Index": 29.61,
+    "Safety Index": 70.39,
+    "Country": "United Kingdom"
+  },
+  {
+    "Rank": 373,
+    "City": "Islamabad",
+    "Crime Index": 29.52,
+    "Safety Index": 70.48,
+    "Country": "Pakistan"
+  },
+  {
+    "Rank": 374,
+    "City": "Nizhny Novgorod",
+    "Crime Index": 29.23,
+    "Safety Index": 70.77,
+    "Country": "Russia"
+  },
+  {
+    "Rank": 375,
+    "City": "Galway",
+    "Crime Index": 29.19,
+    "Safety Index": 70.81,
+    "Country": "Ireland"
+  },
+  {
+    "Rank": 376,
+    "City": "Lisbon",
+    "Crime Index": 29.17,
+    "Safety Index": 70.83,
+    "Country": "Portugal"
+  },
+  {
+    "Rank": 377,
+    "City": "Jeddah (Jiddah)",
+    "Crime Index": 28.95,
+    "Safety Index": 71.05,
+    "Country": "Saudi Arabia"
+  },
+  {
+    "Rank": 378,
+    "City": "Alicante",
+    "Crime Index": 28.81,
+    "Safety Index": 71.19,
+    "Country": "Spain"
+  },
+  {
+    "Rank": 379,
+    "City": "Bucharest",
+    "Crime Index": 28.25,
+    "Safety Index": 71.75,
+    "Country": "Romania"
+  },
+  {
+    "Rank": 380,
+    "City": "Bursa",
+    "Crime Index": 28.2,
+    "Safety Index": 71.8,
+    "Country": "Turkey"
+  },
+  {
+    "Rank": 381,
+    "City": "Davao",
+    "Crime Index": 27.75,
+    "Safety Index": 72.25,
+    "Country": "Philippines"
+  },
+  {
+    "Rank": 382,
+    "City": "Valencia",
+    "Crime Index": 27.68,
+    "Safety Index": 72.32,
+    "Country": "Spain"
+  },
+  {
+    "Rank": 383,
+    "City": "Graz",
+    "Crime Index": 27.38,
+    "Safety Index": 72.62,
+    "Country": "Austria"
+  },
+  {
+    "Rank": 384,
+    "City": "Warsaw",
+    "Crime Index": 27.3,
+    "Safety Index": 72.7,
+    "Country": "Poland"
+  },
+  {
+    "Rank": 385,
+    "City": "Ottawa",
+    "Crime Index": 27.27,
+    "Safety Index": 72.73,
+    "Country": "Canada"
+  },
+  {
+    "Rank": 386,
+    "City": "Singapore",
+    "Crime Index": 27.22,
+    "Safety Index": 72.78,
+    "Country": "Singapore"
+  },
+  {
+    "Rank": 387,
+    "City": "Bergen",
+    "Crime Index": 27.2,
+    "Safety Index": 72.8,
+    "Country": "Norway"
+  },
+  {
+    "Rank": 388,
+    "City": "Malaga",
+    "Crime Index": 27.05,
+    "Safety Index": 72.95,
+    "Country": "Spain"
+  },
+  {
+    "Rank": 389,
+    "City": "Antalya",
+    "Crime Index": 27.03,
+    "Safety Index": 72.97,
+    "Country": "Turkey"
+  },
+  {
+    "Rank": 390,
+    "City": "Haifa",
+    "Crime Index": 26.86,
+    "Safety Index": 73.14,
+    "Country": "Israel"
+  },
+  {
+    "Rank": 391,
+    "City": "Vienna",
+    "Crime Index": 26.85,
+    "Safety Index": 73.15,
+    "Country": "Austria"
+  },
+  {
+    "Rank": 392,
+    "City": "Utrecht",
+    "Crime Index": 26.81,
+    "Safety Index": 73.19,
+    "Country": "Netherlands"
+  },
+  {
+    "Rank": 393,
+    "City": "Copenhagen",
+    "Crime Index": 26.67,
+    "Safety Index": 73.33,
+    "Country": "Denmark"
+  },
+  {
+    "Rank": 394,
+    "City": "Tel Aviv-Yafo",
+    "Crime Index": 26.62,
+    "Safety Index": 73.38,
+    "Country": "Israel"
+  },
+  {
+    "Rank": 395,
+    "City": "Geneva",
+    "Crime Index": 26.61,
+    "Safety Index": 73.39,
+    "Country": "Switzerland"
+  },
+  {
+    "Rank": 396,
+    "City": "Vilnius",
+    "Crime Index": 26.51,
+    "Safety Index": 73.49,
+    "Country": "Lithuania"
+  },
+  {
+    "Rank": 397,
+    "City": "Brasov",
+    "Crime Index": 26.49,
+    "Safety Index": 73.51,
+    "Country": "Romania"
+  },
+  {
+    "Rank": 398,
+    "City": "Riyadh",
+    "Crime Index": 26.31,
+    "Safety Index": 73.69,
+    "Country": "Saudi Arabia"
+  },
+  {
+    "Rank": 399,
+    "City": "Richmond Hill",
+    "Crime Index": 26.28,
+    "Safety Index": 73.72,
+    "Country": "Canada"
+  },
+  {
+    "Rank": 400,
+    "City": "Gent",
+    "Crime Index": 26.26,
+    "Safety Index": 73.74,
+    "Country": "Belgium"
+  },
+  {
+    "Rank": 401,
+    "City": "Trieste",
+    "Crime Index": 26.17,
+    "Safety Index": 73.83,
+    "Country": "Italy"
+  },
+  {
+    "Rank": 402,
+    "City": "Brno",
+    "Crime Index": 26.08,
+    "Safety Index": 73.92,
+    "Country": "Czech Republic"
+  },
+  {
+    "Rank": 403,
+    "City": "Oakville",
+    "Crime Index": 25.74,
+    "Safety Index": 74.26,
+    "Country": "Canada"
+  },
+  {
+    "Rank": 404,
+    "City": "Aalborg",
+    "Crime Index": 25.54,
+    "Safety Index": 74.46,
+    "Country": "Denmark"
+  },
+  {
+    "Rank": 405,
+    "City": "Lausanne",
+    "Crime Index": 25.53,
+    "Safety Index": 74.47,
+    "Country": "Switzerland"
+  },
+  {
+    "Rank": 406,
+    "City": "Seoul",
+    "Crime Index": 25.38,
+    "Safety Index": 74.62,
+    "Country": "South Korea"
+  },
+  {
+    "Rank": 407,
+    "City": "Tbilisi",
+    "Crime Index": 25.16,
+    "Safety Index": 74.84,
+    "Country": "Georgia"
+  },
+  {
+    "Rank": 408,
+    "City": "Markham",
+    "Crime Index": 25.15,
+    "Safety Index": 74.85,
+    "Country": "Canada"
+  },
+  {
+    "Rank": 409,
+    "City": "Mangalore",
+    "Crime Index": 25.07,
+    "Safety Index": 74.93,
+    "Country": "India"
+  },
+  {
+    "Rank": 410,
+    "City": "Merida",
+    "Crime Index": 24.96,
+    "Safety Index": 75.04,
+    "Country": "Mexico"
+  },
+  {
+    "Rank": 411,
+    "City": "Helsinki",
+    "Crime Index": 24.92,
+    "Safety Index": 75.08,
+    "Country": "Finland"
+  },
+  {
+    "Rank": 412,
+    "City": "Eindhoven",
+    "Crime Index": 24.32,
+    "Safety Index": 75.68,
+    "Country": "Netherlands"
+  },
+  {
+    "Rank": 413,
+    "City": "Kigali",
+    "Crime Index": 24.16,
+    "Safety Index": 75.84,
+    "Country": "Rwanda"
+  },
+  {
+    "Rank": 414,
+    "City": "Prague",
+    "Crime Index": 24.1,
+    "Safety Index": 75.9,
+    "Country": "Czech Republic"
+  },
+  {
+    "Rank": 415,
+    "City": "Timisoara",
+    "Crime Index": 24.06,
+    "Safety Index": 75.94,
+    "Country": "Romania"
+  },
+  {
+    "Rank": 416,
+    "City": "Chiang Mai",
+    "Crime Index": 23.91,
+    "Safety Index": 76.09,
+    "Country": "Thailand"
+  },
+  {
+    "Rank": 417,
+    "City": "Tokyo",
+    "Crime Index": 23.79,
+    "Safety Index": 76.21,
+    "Country": "Japan"
+  },
+  {
+    "Rank": 418,
+    "City": "Tallinn",
+    "Crime Index": 23.59,
+    "Safety Index": 76.41,
+    "Country": "Estonia"
+  },
+  {
+    "Rank": 419,
+    "City": "Rijeka",
+    "Crime Index": 23.43,
+    "Safety Index": 76.57,
+    "Country": "Croatia"
+  },
+  {
+    "Rank": 420,
+    "City": "Stavanger",
+    "Crime Index": 23.32,
+    "Safety Index": 76.68,
+    "Country": "Norway"
+  },
+  {
+    "Rank": 421,
+    "City": "Reykjavik",
+    "Crime Index": 23.02,
+    "Safety Index": 76.98,
+    "Country": "Iceland"
+  },
+  {
+    "Rank": 422,
+    "City": "Amarillo",
+    "Crime Index": 22.97,
+    "Safety Index": 77.03,
+    "Country": "United States"
+  },
+  {
+    "Rank": 423,
+    "City": "Coquitlam",
+    "Crime Index": 22.51,
+    "Safety Index": 77.49,
+    "Country": "Canada"
+  },
+  {
+    "Rank": 424,
+    "City": "Canberra",
+    "Crime Index": 22.31,
+    "Safety Index": 77.69,
+    "Country": "Australia"
+  },
+  {
+    "Rank": 425,
+    "City": "The Hague (Den Haag)",
+    "Crime Index": 22.26,
+    "Safety Index": 77.74,
+    "Country": "Netherlands"
+  },
+  {
+    "Rank": 426,
+    "City": "Cluj-Napoca",
+    "Crime Index": 22.16,
+    "Safety Index": 77.84,
+    "Country": "Romania"
+  },
+  {
+    "Rank": 427,
+    "City": "Tampere",
+    "Crime Index": 21.86,
+    "Safety Index": 78.14,
+    "Country": "Finland"
+  },
+  {
+    "Rank": 428,
+    "City": "Yerevan",
+    "Crime Index": 21.66,
+    "Safety Index": 78.34,
+    "Country": "Armenia"
+  },
+  {
+    "Rank": 429,
+    "City": "Hong Kong",
+    "Crime Index": 21.62,
+    "Safety Index": 78.38,
+    "Country": "Hong Kong"
+  },
+  {
+    "Rank": 430,
+    "City": "Ljubljana",
+    "Crime Index": 21.48,
+    "Safety Index": 78.52,
+    "Country": "Slovenia"
+  },
+  {
+    "Rank": 431,
+    "City": "Zagreb",
+    "Crime Index": 21.36,
+    "Safety Index": 78.64,
+    "Country": "Croatia"
+  },
+  {
+    "Rank": 432,
+    "City": "Manama",
+    "Crime Index": 21.06,
+    "Safety Index": 78.94,
+    "Country": "Bahrain"
+  },
+  {
+    "Rank": 433,
+    "City": "Irvine",
+    "Crime Index": 20.9,
+    "Safety Index": 79.1,
+    "Country": "United States"
+  },
+  {
+    "Rank": 434,
+    "City": "Groningen",
+    "Crime Index": 20.8,
+    "Safety Index": 79.2,
+    "Country": "Netherlands"
+  },
+  {
+    "Rank": 435,
+    "City": "Tartu",
+    "Crime Index": 20.7,
+    "Safety Index": 79.3,
+    "Country": "Estonia"
+  },
+  {
+    "Rank": 436,
+    "City": "Arhus",
+    "Crime Index": 20.6,
+    "Safety Index": 79.4,
+    "Country": "Denmark"
+  },
+  {
+    "Rank": 437,
+    "City": "Muscat",
+    "Crime Index": 20.54,
+    "Safety Index": 79.46,
+    "Country": "Oman"
+  },
+  {
+    "Rank": 438,
+    "City": "Basel",
+    "Crime Index": 20.12,
+    "Safety Index": 79.88,
+    "Country": "Switzerland"
+  },
+  {
+    "Rank": 439,
+    "City": "Oradea",
+    "Crime Index": 19.82,
+    "Safety Index": 80.18,
+    "Country": "Romania"
+  },
+  {
+    "Rank": 440,
+    "City": "Lugano",
+    "Crime Index": 19.48,
+    "Safety Index": 80.52,
+    "Country": "Switzerland"
+  },
+  {
+    "Rank": 441,
+    "City": "Trondheim",
+    "Crime Index": 19.41,
+    "Safety Index": 80.59,
+    "Country": "Norway"
+  },
+  {
+    "Rank": 442,
+    "City": "Eskisehir",
+    "Crime Index": 18.86,
+    "Safety Index": 81.14,
+    "Country": "Turkey"
+  },
+  {
+    "Rank": 443,
+    "City": "Munich",
+    "Crime Index": 18.66,
+    "Safety Index": 81.34,
+    "Country": "Germany"
+  },
+  {
+    "Rank": 444,
+    "City": "Bern",
+    "Crime Index": 17.94,
+    "Safety Index": 82.06,
+    "Country": "Switzerland"
+  },
+  {
+    "Rank": 445,
+    "City": "Zurich",
+    "Crime Index": 17.26,
+    "Safety Index": 82.74,
+    "Country": "Switzerland"
+  },
+  {
+    "Rank": 446,
+    "City": "Dubai",
+    "Crime Index": 16.3,
+    "Safety Index": 83.7,
+    "Country": "United Arab Emirates"
+  },
+  {
+    "Rank": 447,
+    "City": "Sharjah",
+    "Crime Index": 15.69,
+    "Safety Index": 84.31,
+    "Country": "United Arab Emirates"
+  },
+  {
+    "Rank": 448,
+    "City": "Ajman",
+    "Crime Index": 15.64,
+    "Safety Index": 84.36,
+    "Country": "United Arab Emirates"
+  },
+  {
+    "Rank": 449,
+    "City": "Quebec City",
+    "Crime Index": 15.14,
+    "Safety Index": 84.86,
+    "Country": "Canada"
+  },
+  {
+    "Rank": 450,
+    "City": "Taipei",
+    "Crime Index": 15.05,
+    "Safety Index": 84.95,
+    "Country": "Taiwan"
+  },
+  {
+    "Rank": 451,
+    "City": "San Sebastian",
+    "Crime Index": 14.86,
+    "Safety Index": 85.14,
+    "Country": "Spain"
+  },
+  {
+    "Rank": 452,
+    "City": "Doha",
+    "Crime Index": 13.96,
+    "Safety Index": 86.04,
+    "Country": "Qatar"
+  },
+  {
+    "Rank": 453,
+    "City": "Abu Dhabi",
+    "Crime Index": 11.67,
+    "Safety Index": 88.33,
+    "Country": "United Arab Emirates"
+  }
+]
