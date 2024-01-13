@@ -3,7 +3,7 @@ const express = require('express')
 const router = express.Router()
 
 // GET ALL itineraries
-router.get('/', () => {
+router.get('/', (req, res) => {
     res.json({mssg: 'pussy'})
 })
 
