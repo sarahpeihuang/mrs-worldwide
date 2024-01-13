@@ -14,10 +14,17 @@ app.use(express.json())
 
 // routes 
 app.use('/api/itinerary', itineraryRoutes)
-// 
 
-// listening for requests
-app.listen(process.env.PORT, () => {
-    console.log('listening to yo momma', process.env.PORT)
-})
+// connect to mongodb
+mongoose.connect(process.env.MONGO_ID)
+    .then(() => {
+        app.listen(process.env.PORT, () => {
+            console.log('connected to MONGO BOY and listening to yo momma', process.env.PORT)
+        })
+    })
+    .catch((error) => {
+        console.log(error)
+    })
+
+
 
