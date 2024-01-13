@@ -1,3 +1,5 @@
+import axios from 'axios';
+
 const Itinerary = require('../models/itineraryModel')
 const mongoose = require('mongoose')
 
@@ -24,12 +26,35 @@ const getItinerary = async (req, res) => {
     res.status(200).json(itinerary)
 }
 
+
+// Cohere API
+const options = {
+  method: 'POST',
+  url: 'https://api.cohere.ai/v1/generate',
+  headers: {accept: 'application/json', 'content-type': 'application/json'},
+  data: {
+    truncate: 'END',
+    return_likelihoods: 'NONE',
+    prompt: 'Please explain to me how LLMs work'
+  }
+};
+
+axios
+  .request(options)
+  .then(function (response) {
+    console.log(response.data);
+  })
+  .catch(function (error) {
+    console.error(error);
+  });
+
+
 // create a new itinerary
 const createItinerary = async (req, res) => {
-    const {days, city} = req.body
+    const {title, days, city} = req.body
 
     try{
-        const itinerary = await Itinerary.create({days, city})
+        const itinerary = await Itinerary.create({title, days, city})
         res.status(200).json(itinerary)
     } catch(error){
         res.status(400).json({error: error.message})
