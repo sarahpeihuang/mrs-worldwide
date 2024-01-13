@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+import MrsWorldwide from '../images/Mrs_Worldwide.png'
 
 const Navbar = () => {
 
@@ -6,7 +7,7 @@ const Navbar = () => {
         <header>
             <div className="container">
                 <Link to="/">
-                    <h1>MRS WORLDWIDE</h1>
+                    <img src={MrsWorldwide} className='h-20'></img>
                 </Link>
             </div>
         </header>
