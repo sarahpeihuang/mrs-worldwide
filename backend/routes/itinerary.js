@@ -5,7 +5,7 @@ const {
     getItinerary
 } = require('../controllers/itineraryController')
 
-const { getCohereResponse } = require('../controllers/CohereController')
+//const { getCohereResponse } = require('../controllers/CohereController')
 
 const router = express.Router()
 
@@ -19,7 +19,7 @@ router.get('/:id', getItinerary)
 router.post('/', createItinerary)
 
 // COHERE API
-router.post('/', getCohereResponse)
+//router.post('/', getCohereResponse)
 
 
 module.exports = router

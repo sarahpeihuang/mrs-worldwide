@@ -70,3 +70,41 @@ header a {
   border-radius: 50%;
   color: #333;
 }
+
+
+/* search bars */
+.search-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 60vh; /* Center vertically in the viewport */
+}
+
+/* search bars */
+label, input {
+  display: block;
+}
+
+input {
+  padding: 10px;
+  margin-top: 7px; /* Increase the margin-top value to move the input elements lower */
+  margin-bottom: 30px;
+  width: 100%;
+  border: 1px solid #ddd;
+  border-radius: px;
+  box-sizing: border-box;
+}
+
+form button {
+  background: var(--primary);
+  border: 0;
+  color: #ff0296;
+  padding: 10px;
+  font-family: "Poppins";
+  border-radius: 4px;
+  cursor: pointer;
+  border: 1px solid #cf1313;
+  border-radius: px;
+}
+
