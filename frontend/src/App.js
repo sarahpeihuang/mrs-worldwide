@@ -5,6 +5,7 @@ import Home from './pages/home'
 import Navbar from './components/navbar'
 import Housing from './components/housing';
 import Safe from './components/safe_cities';
+import Searchbars from './components/searchbars'
 
 
 function App() {
@@ -12,7 +13,7 @@ function App() {
     <div className="App">
       <BrowserRouter>
         <Navbar />
-        
+        <Searchbars />
         <div className="pages">
           <Routes>
             <Route 

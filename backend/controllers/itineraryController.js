@@ -1,4 +1,3 @@
-
 const Itinerary = require('../models/itineraryModel')
 const mongoose = require('mongoose')
 
@@ -29,10 +28,10 @@ const getItinerary = async (req, res) => {
 
 // create a new itinerary
 const createItinerary = async (req, res) => {
-    const {title, days, city} = req.body
+    const {title, days, city, nationality} = req.body
 
     try{
-        const itinerary = await Itinerary.create({title, days, city})
+        const itinerary = await Itinerary.create({title, days, city, nationality})
         res.status(200).json(itinerary)
     } catch(error){
         res.status(400).json({error: error.message})

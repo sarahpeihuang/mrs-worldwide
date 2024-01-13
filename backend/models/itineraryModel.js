@@ -13,6 +13,10 @@ const itinerarySchema = new Schema({
     city: {
         type: String,
         required: true
+    },
+    nationality: {
+        type: String,
+        required: true
     }
 
 })
