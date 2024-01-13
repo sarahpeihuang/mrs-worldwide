@@ -1,24 +1,22 @@
 const express = require('express')
+const {
+    createItinerary,
+    getItineraries,
+    getItinerary
+} = require('../controllers/itineraryController')
 
 const router = express.Router()
 
 // GET ALL itineraries
-router.get('/', (req, res) => {
-    res.json({mssg: 'pussy'})
-})
+router.get('/', getItineraries)
 
 // GET 1 itinerary
-router.get('/:id', (req, res) => {
-    res.json({mssg: 'get 1 pussy'})
-})
+router.get('/:id', getItinerary)
 
 // POST a new itinerary, allows users to submit their input 
-router.post('/', (req, res) => {
-    res.json({mssg: 'POST a new pussy'})
-})
+router.post('/', createItinerary)
 
 // POST to generate an itinerary, returning daily schedule
-
 
 
 module.exports = router
