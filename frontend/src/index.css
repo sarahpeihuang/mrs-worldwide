@@ -6,7 +6,7 @@
 
 /* layout */
 :root {
-  --primary: #1aac83;
+  --primary: #e933a3;
   --error: #e7195a;
 }
 body {
@@ -44,16 +44,17 @@ header a {
   background: #fff;
   border-radius: 4px;
   margin: 60px auto;
-  padding: 20px;
+  padding: 30px;
   position: relative;
   box-shadow: 2px 2px 5px rgba(0,0,0,0.05);
 }
 .itinerary-details h4 {
   margin: 0 0 10px 0;
-  font-size: 1.2em;
+  font-size: 2.0em; /* Increase the font size */
+  font-weight: bold; /* Make it bold */
   color: var(--primary);
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Add drop shadow */
 }
-
 
 /* search bars */
 .search-container {

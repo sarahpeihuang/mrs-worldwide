@@ -45,9 +45,8 @@ const Searchbars = ({onSubmit}) => {
   return (
     <form onSubmit={handleSubmit}>
       <div className="search-container">
-        <h1 class='bg-gradient-to-r from-[#fd389bff] via-[#66ddeeff]  to-[#ffce1aff] text-4xl p-6 hover:text-[#ffffff]'><strong>WELCOME TO MRS WORLDWIDE</strong></h1>
-        <h1><strong></strong></h1>
-
+      <h1 class='bg-white text-4xl p-6 hover:bg-gradient-to-r from-[#fd389bff] via-[#66ddeeff] to-[#ffce1aff] rounded-2xl shadow-lg r'><strong>WELCOME TO MRS WORLDWIDE</strong></h1>
+        <br></br>
         <div>
         <label htmlFor="title" class="font-bold py-2">Trip Title:</label>
         <input

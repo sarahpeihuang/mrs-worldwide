@@ -11,7 +11,7 @@ import ParentComponent from './components/parentComponent';
 
 function App() {
   return (
-    <div className="App"style={{ backgroundColor: '#66ddeeff' }}>
+    <div className="App" style={{ background: 'radial-gradient(circle, #66ddeeff, #fd389bff)'}}>    
       <BrowserRouter>
         <Navbar />
         <br></br>
