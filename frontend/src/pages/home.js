@@ -28,12 +28,10 @@ const Home = () => {
 
     return(
         <div className="home">
-            <Searchbars onSubmit={fetchItineraries} />
             <div className="itineraries">
                 {itineraries && itineraries.map((itinerary) => (
                     <ItineraryDetails 
                     key={itinerary._id} 
-                    
                     itinerary={itinerary}/>
                 ))}
             </div>            

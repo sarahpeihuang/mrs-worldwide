@@ -7,6 +7,7 @@ import Housing from './components/housing';
 import Safe from './components/safe_cities';
 import Searchbars from './components/searchbars'
 import Passport from './components/passport'
+import ParentComponent from './components/parentComponent';
 
 function App() {
   return (
@@ -15,20 +16,9 @@ function App() {
         <Navbar />
         <br></br>
         <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
         <div className="pages">
-          <Routes>
-            <Route 
-              path="/" element={<Home />}
-            />
-          </Routes>
-          <Housing/>
           <br></br>
-          <Safe/>
-          <br></br>
-          <Passport/>
+          <ParentComponent />
         </div>
       </BrowserRouter>
     </div>

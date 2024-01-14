@@ -1,4 +1,4 @@
-const ItineraryDetails = ({ itinerary }) => {
+const ItineraryDetails = ({ itinerary, city }) => {
     return (
         <div className="itinerary-details">
             <h4>{itinerary.title}</h4>

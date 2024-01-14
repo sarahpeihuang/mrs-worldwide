@@ -2,10 +2,10 @@ import React from "react";
 import Expedia from "../images/expedia.png";
 import Airbnb from "../images/airbnb.png";
 
-const Housing = () => {
-  const city = "Toronto"; // INPUT CITY NAME FROM VARIABLE
+const Housing = ({city}) => {
   const expediaUrl = `https://www.expedia.ca/Hotel-Search?adults=1&children=&destination=${city}`;
-  const airbnbUrl = `https://www.airbnb.ca/s/${city}/homes?&adults=1`;
+  const airbnbUrl = `https://www.airbnb.ca/s/${city}/homes?&adults=1`
+
   return (
     <header>
       <div className="housing p-5">

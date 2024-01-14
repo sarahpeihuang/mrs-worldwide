@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import { useItinerariesContext } from '../hooks/useItineraryContext'
+import Home from '../pages/home';
 
 const Searchbars = ({onSubmit}) => {
   const { dispatch } = useItinerariesContext()
@@ -35,7 +36,9 @@ const Searchbars = ({onSubmit}) => {
         setError(null)
         console.log('new itinerary added', json)
         dispatch({type: 'CREATE_ITINERARY', payload: json})
-        onSubmit();
+
+        // call the onSubmit function with the updated city
+        onSubmit(city);
     }
 }
 
@@ -92,6 +95,7 @@ const Searchbars = ({onSubmit}) => {
       <button class="rounded-md fill-pink-500">Submit</button>
       {error && <div className="error">{error}</div>}
       </div>
+      <Home />
     </form>
   );
 };
