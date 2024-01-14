@@ -10,7 +10,7 @@ const createCohereResponse = async (req, res) => {
     const { title, city, days, nationality } = req.body
 
     try{
-        const prompt = `Travelling to ${city}, create an itinerary for ${days} days. Separate each activity into its separate paragraph. put two new lines after each day is stated.\n`
+        const prompt = `Travelling to ${city}, create an itinerary for ${days} days. Give maximum 4 sentences per day.\n`
 
         // Call the Cohere API to generate the response
         const response = await cohere.generate({
@@ -23,8 +23,12 @@ const createCohereResponse = async (req, res) => {
         returnLikelihoods: "NONE"
     })
 
-    const generatedText = response.generations[0].text
+    let generatedText = response.generations[0].text
 
+    // use regex to separate content between day x
+    generatedText = generatedText.replace(/(Day \d+:)/g, "$1\n");
+
+    // Filter out empty strings from the array
     const itinerary = { title, city, days, nationality, prompt, generatedText };
     await Itinerary.create(itinerary)
     res.status(200).json(itinerary)
