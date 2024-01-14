@@ -18,7 +18,6 @@ function App() {
         <br></br>
         <br></br>
         <br></br>
-        <Searchbars />
         <div className="pages">
           <Routes>
             <Route 
