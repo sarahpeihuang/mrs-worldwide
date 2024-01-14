@@ -13,13 +13,11 @@ function App() {
     <div className="App">
       <BrowserRouter>
         <Navbar />
-        <Searchbars />
         <div className="pages">
           <Routes>
             <Route 
               path="/" element={<Home />}
             />
-  
           </Routes>
           <Housing/>
           <Safe/>

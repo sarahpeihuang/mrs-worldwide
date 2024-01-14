@@ -17,8 +17,11 @@ const itinerarySchema = new Schema({
     nationality: {
         type: String,
         required: true
+    },
+    generatedText: {
+        type: String,
+        required: false
     }
-
 })
 
 export default mongoose.model('Itinerary', itinerarySchema)

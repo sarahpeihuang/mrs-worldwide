@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { useItinerariesContext } from '../hooks/useItineraryContext'
 
-const Searchbars = () => {
+const Searchbars = ({onSubmit}) => {
   const { dispatch } = useItinerariesContext()
 
   const [title, setTitle] = useState('');
@@ -15,7 +15,7 @@ const Searchbars = () => {
     e.preventDefault();
     const itinerary = { title, days, city, nationality };
 
-    const response = await fetch('/api/itinerary', {
+    const response = await fetch('/api/cohere', {
         method: 'POST',
         body: JSON.stringify(itinerary),
         headers: {
@@ -35,6 +35,7 @@ const Searchbars = () => {
         setError(null)
         console.log('new itinerary added', json)
         dispatch({type: 'CREATE_ITINERARY', payload: json})
+        onSubmit();
     }
 }
 
