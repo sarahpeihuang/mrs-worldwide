@@ -17,7 +17,7 @@ const Safe = () => {
     return (
         <header className="p-5">
             <div className="safe">
-                <h2 className="text-[#21c526ff] font-bold">Safe Cities you can consider</h2>
+                <h2 className="text-[#21c526ff] font-bold">Safe Cities You Can Consider</h2>
                 <ul>
                     {/* {saferCities.map(cityInfo => (
                         <li key={cityInfo[0]}>
