@@ -45,7 +45,7 @@ header a {
 .itinerary-details {
   background: #fff;
   border-radius: 4px;
-  margin: 20px auto;
+  margin: 60px auto;
   padding: 20px;
   position: relative;
   box-shadow: 2px 2px 5px rgba(0,0,0,0.05);
@@ -97,14 +97,15 @@ input {
 }
 
 form button {
-  background: var(--primary);
+  background: #21c526ff;
   border: 0;
-  color: #ff0296;
+  color: #ffffff;
   padding: 10px;
+  margin-bottom: 70px;
   font-family: "Poppins";
   border-radius: 4px;
   cursor: pointer;
-  border: 1px solid #cf1313;
+  border: 1px solid #000000;
   border-radius: px;
 }
 

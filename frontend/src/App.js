@@ -6,13 +6,18 @@ import Navbar from './components/navbar'
 import Housing from './components/housing';
 import Safe from './components/safe_cities';
 import Searchbars from './components/searchbars'
-
+import Passport from './components/passport'
 
 function App() {
   return (
-    <div className="App">
+    <div className="App"style={{ backgroundColor: '#66ddeeff' }}>
       <BrowserRouter>
         <Navbar />
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
         <Searchbars />
         <div className="pages">
           <Routes>
@@ -22,7 +27,10 @@ function App() {
   
           </Routes>
           <Housing/>
+          <br></br>
           <Safe/>
+          <br></br>
+          <Passport/>
         </div>
       </BrowserRouter>
     </div>

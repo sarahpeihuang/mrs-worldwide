@@ -31,6 +31,7 @@ const Home = () => {
                 {itineraries && itineraries.map((itinerary) => (
                     <ItineraryDetails 
                     key={itinerary._id} 
+                    
                     itinerary={itinerary}/>
                 ))}
             </div>            

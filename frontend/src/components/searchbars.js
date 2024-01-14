@@ -41,12 +41,13 @@ const Searchbars = () => {
   return (
     <form onSubmit={handleSubmit}>
       <div className="search-container">
-        <h1><strong>WELCOME TO MRS WORLDWIDE</strong></h1>
+        <h1 class='bg-gradient-to-r from-[#fd389bff] via-[#66ddeeff]  to-[#ffce1aff] text-4xl p-6 hover:text-[#ffffff]'><strong>WELCOME TO MRS WORLDWIDE</strong></h1>
         <h1><strong></strong></h1>
 
         <div>
-        <label htmlFor="title">Title:</label>
+        <label htmlFor="title" class="font-bold py-2">Trip Title:</label>
         <input
+        class="rounded-xl "
           type="text"
           id="title"
           value={title}
@@ -55,36 +56,39 @@ const Searchbars = () => {
         />
       </div>
       <div>
-        <label htmlFor="days">Number of Days:</label>
+        <label htmlFor="days" class="font-bold">Number of Days:</label>
         <input
           type="number"
           id="days"
           value={days}
           onChange={(e) => setDays(e.target.value)}
           required
+          class="rounded-xl"
         />
       </div>
       <div>
-        <label htmlFor="city">City of Travel:</label>
+        <label htmlFor="city" class="font-bold">City of Travel:</label>
         <input
           type="text"
           id="city"
           value={city}
           onChange={(e) => setCity(e.target.value)}
           required
+          class="rounded-xl"
         />
       </div>
       <div>
-        <label htmlFor="nationality">Nationality:</label>
+        <label htmlFor="nationality" class="font-bold">Nationality:</label>
         <input
           type="text"
           id="nationality"
           value={nationality}
           onChange={(e) => setNationality(e.target.value)}
           required
+          class="rounded-xl"
         />
       </div>
-      <button>Submit</button>
+      <button class="rounded-md fill-pink-500">Submit</button>
       {error && <div className="error">{error}</div>}
       </div>
     </form>

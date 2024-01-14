@@ -8,8 +8,8 @@ const Housing = () => {
   const airbnbUrl = `https://www.airbnb.ca/s/${city}/homes?&adults=1`;
   return (
     <header>
-      <div className="housing">
-        <h2 className="text-yellow-500">Housing in {city}</h2>
+      <div className="housing p-5">
+        <h2 className="text-[#21c526ff] font-bold">Housing in {city}</h2>
         <a
           href={expediaUrl}
           target="_blank"
