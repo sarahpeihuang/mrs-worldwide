@@ -1,24 +1,24 @@
-const Itinerary = require('../models/itineraryModel')
-const mongoose = require('mongoose')
+import mongoose from 'mongoose'
+import Itinerary from '../models/itineraryModel.js'
 
 // GET all itineraries
-const getItineraries = async (req, res) => {
+export const getItineraries = async (req, res) => {
     const itineraries = await Itinerary.find({})
 
     res.status(200).json(itineraries)
 }
 
 // GET 1 single itinerary 
-const getItinerary = async (req, res) => {
+export const getItinerary = async (req, res) => {
     const { id } = req.params
 
     if (!mongoose.Types.ObjectId.isValid(id)){
-        return res.status(404).json({error: 'no such momma'})
+        return res.status(404).json({error: 'no such'})
     }
     const itinerary = await Itinerary.findById(id)
 
     if(!itinerary){
-        return res.status(404).json({error: 'no puss'})
+        return res.status(404).json({error: 'no'})
     }
 
     res.status(200).json(itinerary)
@@ -27,7 +27,7 @@ const getItinerary = async (req, res) => {
 
 
 // create a new itinerary
-const createItinerary = async (req, res) => {
+export const createItinerary = async (req, res) => {
     const {title, days, city, nationality} = req.body
 
     try{
@@ -36,10 +36,4 @@ const createItinerary = async (req, res) => {
     } catch(error){
         res.status(400).json({error: error.message})
     }
-}
-
-module.exports = {
-    createItinerary,
-    getItinerary,
-    getItineraries
 }

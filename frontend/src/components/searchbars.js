@@ -1,29 +1,42 @@
-import React, { useState } from 'react';
+import React, { useState } from 'react'
+import { useItinerariesContext } from '../hooks/useItineraryContext'
 
-const Searchbars = ({ onSubmit }) => {
-  // Initialize state for the input fields
+const Searchbars = () => {
+  const { dispatch } = useItinerariesContext()
+
   const [title, setTitle] = useState('');
   const [days, setDays] = useState('');
   const [city, setCity] = useState('');
   const [nationality, setNationality] = useState('')
+  const [error, setError] = useState(null)
 
   // Handle form submission
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
-    // Validate input values here if needed
-
-    // Create an itinerary object with the input values
     const itinerary = { title, days, city, nationality };
 
-    // Call the onSubmit function passed from the parent component
-    onSubmit(itinerary);
+    const response = await fetch('/api/itinerary', {
+        method: 'POST',
+        body: JSON.stringify(itinerary),
+        headers: {
+            'Content-Type': 'application/json',
+        }
+    })
+    const json = await response.json()
 
-    // Clear the input fields
-    setTitle('');
-    setDays('');
-    setCity('');
-    setNationality('')
-  };
+    if (!response.ok) {
+        setError(json.error)
+    }
+    if(response.ok){
+        setTitle('');
+        setDays('');
+        setCity('');
+        setNationality('')
+        setError(null)
+        console.log('new itinerary added', json)
+        dispatch({type: 'CREATE_ITINERARY', payload: json})
+    }
+}
 
   return (
     <form onSubmit={handleSubmit}>
@@ -71,7 +84,8 @@ const Searchbars = ({ onSubmit }) => {
           required
         />
       </div>
-      <button type="submit">Submit</button>
+      <button>Submit</button>
+      {error && <div className="error">{error}</div>}
       </div>
     </form>
   );

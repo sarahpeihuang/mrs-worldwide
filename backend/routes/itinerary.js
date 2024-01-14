@@ -1,11 +1,9 @@
-const express = require('express')
-const {
+import express from 'express'
+import {
     createItinerary,
     getItineraries,
     getItinerary
-} = require('../controllers/itineraryController')
-
-//const { getCohereResponse } = require('../controllers/CohereController')
+  } from '../controllers/itineraryController.js';  
 
 const router = express.Router()
 
@@ -18,8 +16,4 @@ router.get('/:id', getItinerary)
 // POST a new itinerary, allows users to submit their input 
 router.post('/', createItinerary)
 
-// COHERE API
-//router.post('/', getCohereResponse)
-
-
-module.exports = router
+export default router

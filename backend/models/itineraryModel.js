@@ -1,4 +1,4 @@
-const mongoose = require('mongoose')
+import mongoose from 'mongoose'
 const Schema = mongoose.Schema
 
 const itinerarySchema = new Schema({
@@ -21,4 +21,4 @@ const itinerarySchema = new Schema({
 
 })
 
-module.exports = mongoose.model('Itinerary', itinerarySchema)
+export default mongoose.model('Itinerary', itinerarySchema)

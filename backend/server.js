@@ -1,8 +1,10 @@
-require('dotenv').config()
+import dotenv from 'dotenv';
+dotenv.config();
 
-const express = require('express')
-const mongoose = require('mongoose')
-const itineraryRoutes = require('./routes/itinerary')
+import express from 'express';
+import mongoose from 'mongoose';
+import itineraryRoutes from './routes/itinerary.js';
+import cohereRoutes from './routes/cohere.js'
 
 // express app
 const app = express()
@@ -12,6 +14,7 @@ app.use(express.json())
 
 // routes 
 app.use('/api/itinerary', itineraryRoutes)
+app.use('/api/cohere', cohereRoutes)
 
 // connect to mongodb
 mongoose.connect(process.env.MONGO_ID)

@@ -1,10 +1,11 @@
-import { useEffect, useState } from 'react'
+import { useEffect } from 'react'
+import { useItinerariesContext } from '../hooks/useItineraryContext'
 
 // components
 import ItineraryDetails from '../components/ItineraryDetails'
 
 const Home = () => {
-    const [itineraries, setItineraries] = useState(null)
+    const {itineraries, dispatch} = useItinerariesContext()
 
     useEffect(() => {
         const fetchItineraries = async () => {
@@ -14,13 +15,12 @@ const Home = () => {
                 const json = await response.json()
 
                 if (response.ok) {
-                    setItineraries(json)
+                    dispatch({type: 'SET_ITINERARIES', payload: json})
                 }
-                setItineraries(json);
             } catch (error) {
             console.error('NOT WORKING!!!:', error)
             }
-        }
+        } 
 
         fetchItineraries()
     }, [])
